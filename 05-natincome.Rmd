@@ -1,9 +1,17 @@
 # Measuring a Nation’s Income {#natincome}
 
+This chapter marks the beginning of our look at macroeconomics proper.
+
 ## Introduction
+
+Let's begin with some introductory remarks on:
+
+* The topics I will discuss in this course
+* The role of theory and data in studying these topics
 
 ### Economics, Microeconomics, and Macroeconomics
 
+__Economics__ is the study of human responses to scarcity. It is convenient to split a topic that vast into two areas: microeconomics and macroeconomics. This course focuses on macroeocnomics.
 __Microeconomics__ is the study of how individual households and firms make decisions and how they interact with one another in markets.
 __Macroeconomics__ is the study of the economy as a whole.
 Its goal is to explain the economic changes that affect many households, firms, and markets at once.
@@ -26,12 +34,9 @@ To see whether an economy faces a problem, you first need data.
 
 ### Total Income
 
-Recall that we need to measure the health of an economy.
-When judging whether an economy is doing well or poorly, it is natural to look at the total income that the people in the economy are earning.
+We need to measure the health of an economy. When judging whether an economy is doing well or poorly, it is natural to look at the total income that the people in the economy are earning.
 
-We can temporarily boost our standard of living by borrowing from others. 
-But we can’t keep borrowing forever.
-This is why a nation’s standard of living depends heavily on its own total income.
+We can temporarily boost our standard of living by borrowing from others. But we can’t keep borrowing forever. This is why a nation’s standard of living depends heavily on its own total income.
 
 ### Income = Expenditure
 
@@ -58,8 +63,8 @@ Gross Domestic Product (GDP) is one measure of a country’s total income.
 There are other measures of total income, but GDP is the most popular measure.
 
 __GDP is the total market value of all final goods and services produced within a country in a given period of time.__
-For example, the GDP of the United States in 2017 was $19,390.6 billion, according to the U.S. Department of Commerce. 
-Given a mid-year population of 325,983,000 (est.) the per capita (or, per human) GDP was $59,484.
+For example, the GDP of the United States in 2017 was \$19,390.6 billion, according to the U.S. Department of Commerce. 
+Given a mid-year population of 325,983,000 (est.) the per capita (or, per human) GDP was \$59,484.
 
 __GDP is also the total expenditure on all final goods and services produced within a country in a given period of time.__
 __GDP is also the total income of all domestically located resources.__
@@ -85,20 +90,29 @@ __Intermediate goods are those goods that disappear inside other goods that are 
 GDP is defined so that the value of intermediate goods is counted only once, not twice or thrice.
 
 Intermediate goods are goods that are sold by their producers to producers of other goods.
-Examples: milk sold by a dairy to an ice-cream company, grapes sold by a vineyard to a winemaker, printer paper sold to Kinko’s.
-Final goods are goods that are sold to the final users of those goods.
-Examples: milk you buy at the supermarket, table grapes you buy at the farmer’s market, printer paper you buy for your computer printer.
-All goods made this year but not sold by year’s end are regarded as final goods (inventories).
+Examples: 
 
-Suppose a dairy farmer sells milk worth $50,000 to an ice-cream company. 
+* milk sold by a dairy to an ice-cream company, 
+* grapes sold by a vineyard to a winemaker, 
+* printer paper sold to Kinko’s.
+
+Final goods are goods that are sold to the final users of those goods.
+Examples: 
+
+* milk you buy at the supermarket, 
+* table grapes you buy at the farmer’s market, 
+* printer paper you buy for your computer printer.
+* All goods made this year but not sold by year’s end are regarded as final goods (and labeled "inventories").
+
+Suppose a dairy farmer sells milk worth \$50,000 to an ice-cream company. 
 The farmer does not buy anything from any other firm.
-The total income of the dairy farmer and her employees is, therefore, $50,000.
-The ice-cream company uses the milk to produce ice-cream which it sells for $75,000. 
+The total income of the dairy farmer and her employees is, therefore, \$50,000.
+The ice-cream company uses the milk to produce ice-cream which it sells for \$75,000. 
 The ice-cream company does not buy anything from any firm other than the dairy.
-Therefore, the total income of the owners and employees of the ice-cream firm is $25,000.
-Therefore, the total income of this country is $75,000.
+Therefore, the total income of the owners and employees of the ice-cream firm is \$25,000.
+Therefore, the total income of this country is \$75,000.
 This is accurately measured by the value of the ice-cream (the final good) alone.
-Had we also counted milk, the intermediate good, we would have calculated total income to be $125,000, which would have been an exaggeration.
+Had we also counted milk, the intermediate good, we would have calculated total income to be \$125,000, which would have been an exaggeration.
 
 #### … and Services …
 
@@ -145,16 +159,16 @@ So, when you see or hear a discussion of GDP, be sure to ask, “Nominal or real
 Nominal GDP is the total market value of all final goods and services produced within a country in a given period of time.
 The market value is calculated using _current prices_, the prices that prevailed when the production took place.
 
-For example, the nominal GDP of the United States in 2017 was $19,390.6 billion, according to the U.S. Department of Commerce.
-Given a mid-year population of 325,983,000 (est.) the per capita (or, per human) nominal GDP was $59,484.
+For example, the nominal GDP of the United States in 2017 was \$19,390.6 billion, according to the U.S. Department of Commerce.
+Given a mid-year population of 325,983,000 (est.) the per capita (or, per human) nominal GDP was \$59,484.
 
 ### Gross Domestic Product, Real
 
 Real GDP is the total market value of all final goods and services produced within a country in a given period of time. This is the same as for nominal GDP, but there's a twist.
 The market value is now calculated using _constant prices_, the prices that prevailed in a benchmark year called the base year.
 
-For example, the real GDP of the United States in 2017 was $17,096.2 billion in 2009 dollars, according to the U.S. Department of Commerce.
-Given a mid-year population of 325,983,000 (est.) the per capita (or, per human) real GDP was $52,445 in 2009 dollars.
+For example, the real GDP of the United States in 2017 was \$17,096.2 billion in 2009 dollars, according to the U.S. Department of Commerce.
+Given a mid-year population of 325,983,000 (est.) the per capita (or, per human) real GDP was \$52,445 in 2009 dollars.
 
 To further explore the difference between the calculation of Nominal GDP and Real GDP, take a look at Figure \@ref(fig:gdp-math-1). It presents a numerical example showing the calculation of nominal and real GDP, this time with hypothetical data:
 
@@ -189,8 +203,8 @@ The GDP Deflator is calculated as follows:
 \end{equation}
 
 
-Example: In 2013, US Nominal GDP was $16,803.0 billion.
-US Real GDP was $15,767.1 billion (in chained 2009 dollars). Therefore, 
+Example: In 2013, US Nominal GDP was \$16,803.0 billion.
+US Real GDP was \$15,767.1 billion (in chained 2009 dollars). Therefore, 
 US GDP Deflator = (16,803.0/15,767.1) × 100 = 106.57.
 This means that the final goods and services produced in 2013 had a market value in 2013 prices that was 106.57 percent of their market value in 2009 prices.
 This means that, roughly, final goods and services were on average 6.57% pricier in 2013 than in 2009.
@@ -273,14 +287,12 @@ Exports – Imports is called _Net Exports_.
 * Government Purchases ($G$): The spending on goods and services by local, state, and federal governments. Does not include transfer payments because they are not made in exchange for currently produced goods or services.
 * Net Exports ($NX$): Exports minus imports.
 
-Throughout this book, real GDP will be denoted by the symbol $Y$. Then, the last equation above becomes:
+Throughout these lecture notes, real GDP will be denoted by the symbol $Y$. Then, the last equation above becomes:
 \begin{equation} 
   Y=C+I+G+NX.
   (\#eq:natincidentity)
 \end{equation}
 This equation, which will be used again and again throughout this book is called the __national income identity__.^[An identity is an equation that is _always_ true, simply by virtue of the way the variables in the equation are defined.]
-
-
 
 For more on the link between GDP and its components, see [this video](https://youtu.be/ChnRwedmO64). 
 
@@ -363,8 +375,18 @@ Trends in US Poverty Rate
 
 ### GDP Ignores Consumer Surplus
 
-Free digital technology, Free Apps, Google, Google maps, Wikipedia, OpenOffice, YouTube, Freely available education (Khan Academy, Coursera) ... None of this adds to GDP.
-Users would be willing to pay but don’t. They get Consumer Surplus.
+* Free digital technology, 
+* Free Apps, 
+* Google, 
+* Google maps, 
+* Wikipedia, 
+* OpenOffice, 
+* YouTube, 
+* Freely available education (Khan Academy, Coursera)
+
+... None of this adds to GDP.
+
+Users would be willing to pay but don’t. They get *Consumer Surplus*.
 
 ### Disasters May Raise GDP
 
