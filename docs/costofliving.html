@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 3 A caucus-race and a long tale | Introduction to Macroeconomics</title>
-  <meta name="description" content="Chapter 3 A caucus-race and a long tale | Introduction to Macroeconomics" />
+  <title>Chapter 5 Measuring the Cost of Living | Introduction to Macroeconomics</title>
+  <meta name="description" content="Chapter 5 Measuring the Cost of Living | Introduction to Macroeconomics" />
   <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 3 A caucus-race and a long tale | Introduction to Macroeconomics" />
+  <meta property="og:title" content="Chapter 5 Measuring the Cost of Living | Introduction to Macroeconomics" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 3 A caucus-race and a long tale | Introduction to Macroeconomics" />
+  <meta name="twitter:title" content="Chapter 5 Measuring the Cost of Living | Introduction to Macroeconomics" />
   
   
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="the-pool-of-tears.html"/>
-<link rel="next" href="natincome.html"/>
+<link rel="prev" href="natincome.html"/>
+<link rel="next" href="growth.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -333,17 +333,266 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="a-caucus-race-and-a-long-tale" class="section level1">
-<h1><span class="header-section-number">Chapter 3</span> A caucus-race and a long tale</h1>
+<div id="costofliving" class="section level1">
+<h1><span class="header-section-number">Chapter 5</span> Measuring the Cost of Living</h1>
+<ul>
+<li>What’s the cost of living the way we actually live? That is, what’s the cost of buying the things we buy?</li>
+<li>Why do we need to know the cost of living?</li>
+</ul>
+<div id="the-consumer-price-index" class="section level2">
+<h2><span class="header-section-number">5.1</span> The Consumer Price Index</h2>
+<p>The Consumer Price Index (CPI) is a measure of the overall cost of the goods and services bought by a typical consumer. So, it is a measure of the cost of living.</p>
+<p>Here’s CPI data for the United States: <a href="https://www.bls.gov/news.release/cpi.toc.htm" class="uri">https://www.bls.gov/news.release/cpi.toc.htm</a>. The <a href="https://www.bls.gov/">Bureau of Labor Statistics</a> reports the CPI eevery month. Here’s another source for the same data: <a href="http://research.stlouisfed.org/fred2/series/CPIAUCSL" class="uri">http://research.stlouisfed.org/fred2/series/CPIAUCSL</a>.</p>
+<p>Changes in the CPI are used to monitor changes in the cost of living over time. When the CPI rises, the typical family has to spend more dollars to maintain the same standard of living.</p>
+</div>
+<div id="how-the-cpi-is-calculated" class="section level2">
+<h2><span class="header-section-number">5.2</span> How the CPI Is Calculated</h2>
+<ol style="list-style-type: decimal">
+<li>Fix the Typical Consumer’s Basket (TCB): figure out what’s in the “basket” of goods and services that the typical consumer buys.</li>
+<li>Find the prices paid by the typical consumer for the goods in the TCB.</li>
+<li>Compute the TCB’s market value in all years.</li>
+<li>Choose a Base Year and compute the CPI for all years, using Equation <a href="costofliving.html#eq:cpi-formula">(5.1)</a> below.</li>
+<li>Compute the inflation rates for all years, using Equation <a href="costofliving.html#eq:cpi-inflation">(5.2)</a> below.</li>
+</ol>
+<div id="how-the-cpi-is-calculated-fix-the-typical-consumers-basket-tcb" class="section level3">
+<h3><span class="header-section-number">5.2.1</span> How the CPI Is Calculated: Fix the Typical Consumer’s Basket (TCB)</h3>
+<p>We need to determine what “basket” of goods and services that the typical consumer buys.
+The Bureau of Labor Statistics (BLS) conducts a survey and determines the TCB.<br />
+<!--Figure 1: The Typical Basket of Goods and Services--></p>
+</div>
+<div id="how-the-cpi-is-calculated-find-the-prices" class="section level3">
+<h3><span class="header-section-number">5.2.2</span> How the CPI Is Calculated: Find the Prices</h3>
+<p>The BLS conducts monthly consumer surveys to also determine the prices of the goods and services in the TCB. We need to find the prices of each of the goods and services in the typical consumer’s basket for each year.</p>
+</div>
+<div id="how-the-cpi-is-calculated-compute-the-baskets-market-value" class="section level3">
+<h3><span class="header-section-number">5.2.3</span> How the CPI Is Calculated: Compute the Basket’s Market Value</h3>
+<p>Use the data on prices to calculate the market value of the typical consumer’s basket for each year.</p>
+</div>
+<div id="how-the-cpi-is-calculated-choose-a-base-year-and-compute-the-cpi" class="section level3">
+<h3><span class="header-section-number">5.2.4</span> How the CPI Is Calculated: Choose a Base Year and Compute the CPI</h3>
+<p>Designate a particular year as the <strong>base year</strong>, making it the benchmark year against which other years are compared.</p>
+<p>Compute the CPI for any given year as follows:</p>
+<ol style="list-style-type: decimal">
+<li>Divide the market value of the typical consumer’s basket in the given year by its market value in the base year.</li>
+<li>Then, multiply the result by 100.</li>
+</ol>
+<p><span class="math display" id="eq:cpi-formula">\[\begin{equation} 
+  \textrm{CPI for 2018 with Base Year 2009}\equiv\frac{\textrm{Market Value of TCB in 2018 prices}}{\textrm{Market Value of TCB in 2009 prices}}\times 100
+  \tag{5.1}
+\end{equation}\]</span></p>
+</div>
+<div id="how-the-cpi-is-calculated-compute-the-inflation-rate" class="section level3">
+<h3><span class="header-section-number">5.2.5</span> How the CPI Is Calculated: Compute the inflation rate</h3>
+<p><strong>The inflation rate for a given year is the percentage increase in the CPI from the preceding period.</strong></p>
+<p>Equation <a href="costofliving.html#eq:cpi-inflation">(5.2)</a> defines the inflation rate:</p>
+<p><span class="math display" id="eq:cpi-inflation">\[\begin{equation}
+  \textrm{Inflation Rate in 2018, Base Year 2009}\equiv\frac{\textrm{CPI for 2018, Base Year 2009} - \textrm{CPI for 2017, Base Year 2009}}{\textrm{CPI for 2017, Base Year 2009}}\times 100
+  \tag{5.2}
+\end{equation}\]</span></p>
+<p>Note that the inflation rate could be <em>negative</em>, if CPI decreases over time.</p>
+<div id="how-the-cpi-is-calculated-example" class="section level4">
+<h4><span class="header-section-number">5.2.5.1</span> How the CPI Is Calculated: Example</h4>
+<ul>
+<li>Suppose the Base Year is 2002</li>
+<li>Suppose the market value of the Typical Consumer’s Basket of goods and services (TCB) is $1,200 in 2002 prices</li>
+<li>Suppose the market value of the same TCB is $1,236 in 2004 prices</li>
+<li>Then CPI for 2004, Base Year 2002 = $1,236 ÷ $1,200 × 100 = 103</li>
+<li>Meaning: Prices increased 3 percent between 2002 and 2004</li>
+</ul>
+</div>
+<div id="how-the-cpi-is-calculated-the-basic-idea" class="section level4">
+<h4><span class="header-section-number">5.2.5.2</span> How the CPI Is Calculated: The Basic Idea</h4>
+<p>Let’s look at the above example again.</p>
+<p>Suppose you went to Hawaii on holiday in 2002 and spent $1,200. Suppose you went to Hawaii again in 2004, and paid for <em>exactly</em> the same goods and services as in 2002: the same hotel room, the same meals, the same travel, the same everything. And yet, you find that you spent $1,236 during your 2004 holiday.</p>
+<p>Now, $1,236 ÷ $1,200 = 1.03, meaning that your 2004 spending was a multiple 1.03 of your 2002 spending, even though you paid for exactly the same things on both holidays.</p>
+<p>How could that be? The only plausible explanation is that prices in 2004 were—on average—a multiple of 1.03 of the prices in 2002. That is, prices in 2004 were 103 percent of the prices in 2002, on average. Or, equivalently, prices in Hawaii were 3 percent higher in 2004 compared to 2002.</p>
+<p>In this way, by comparing the market value of a <em>fixed</em> basket of goods at two different dates, one can estimate the overall percentage change in prices between those two dates. This is the basic idea behind the CPI formula in Equation <a href="costofliving.html#eq:cpi-formula">(5.1)</a>.</p>
+</div>
+<div id="how-the-cpi-is-calculated-another-example" class="section level4">
+<h4><span class="header-section-number">5.2.5.3</span> How the CPI Is Calculated: Another Example</h4>
+<p>Figure <a href="costofliving.html#fig:cpi-calculation">5.1</a> presents yet another worked out example of the calculation of the CPI and inflation.</p>
+<div class="figure" style="text-align: center"><span id="fig:cpi-calculation"></span>
+<img src="figures/cpi-calculation.png" alt="Worked-out numerical example of the calculation of CPI and inflation from hypothetical data"  />
+<p class="caption">
+Figure 5.1: Worked-out numerical example of the calculation of CPI and inflation from hypothetical data
+</p>
+</div>
+</div>
+<div id="how-the-cpi-is-calculated-video" class="section level4">
+<h4><span class="header-section-number">5.2.5.4</span> How the CPI Is Calculated: Video</h4>
+<p>Check out this <a href="https://youtu.be/0jJKjgE3qfE">video on the Measurement of Inflation</a>.</p>
+</div>
+</div>
+<div id="problems-in-measuring-the-cost-of-living" class="section level3">
+<h3><span class="header-section-number">5.2.6</span> Problems in Measuring the Cost of Living</h3>
+<p>The CPI is an accurate measure of the market value of the goods and services that make up the typical consumer’s basket (TCB), but it is <em>not</em> a perfect measure of the <em>cost of living</em>.</p>
+<p>Here are some of the reasons why the CPI is nota perfect measure of the cost of living:</p>
+<ul>
+<li>Substitution bias</li>
+<li>Introduction of new goods</li>
+<li>Unmeasured quality changes</li>
+</ul>
+<div id="problems-in-measuring-the-cost-of-living-substitution-bias" class="section level4">
+<h4><span class="header-section-number">5.2.6.1</span> Problems in Measuring the Cost of Living: Substitution Bias</h4>
+<p>The typical consumer’s basket (TCB) is not usually changed to reflect consumer reaction to changes in relative prices.
+Consumers substitute toward goods that become relatively less expensive.
+The CPI <em>overstates</em> the increase in cost of living by not considering consumer substitution.</p>
+<p>Consider this hypothetical example:</p>
+<ul>
+<li>Suppose Red Apples and Green Apples are the only two commodities and are identical except for color.</li>
+<li>Suppose the typical consumer’s basket has, for many years, contained 10 of each type.</li>
+<li>Suppose the prices in 2015 (the base year) were $2 per apple for both types. So, the cost of the typical consumer’s basket was $40 in 2015 prices.</li>
+<li>Suppose the prices in 2016 are $4 for a Red Apple and $2 for a Green Apple. So, the cost of the typical consumer’s basket is $60 in 2016 prices.</li>
+<li>Therefore, the CPI for 2016 with base year 2015 is 60 ÷ 40 × 100 = 150, indicating a 50% increase in the cost of living from 2015 to 2016.</li>
+</ul>
+<p><em>Q</em>: The CPI has increased. But has the cost of living really increased?</p>
+<p><em>A</em>: No. The consumer can switch to zero Red Apples and 20 Green Apples and enjoy the same satisfaction in 2016 as in 2015 without any increase in cost.</p>
+<p>Therefore, we see that <em>the CPI exaggerates the true cost of living</em>.</p>
+</div>
+<div id="problems-in-measuring-the-cost-of-living-introduction-of-new-goods" class="section level4">
+<h4><span class="header-section-number">5.2.6.2</span> Problems in Measuring the Cost of Living: Introduction of New Goods</h4>
+<p>The typical consumer’s basket does not reflect the change in purchasing power brought on by the introduction of new products.</p>
+<p>New products result in greater variety, which in turn makes each dollar more valuable.</p>
+<p>As a result, consumers need fewer dollars to maintain any given standard of living.</p>
+</div>
+<div id="problems-in-measuring-the-cost-of-living-unmeasured-quality-changes" class="section level4">
+<h4><span class="header-section-number">5.2.6.3</span> Problems in Measuring the Cost of Living: Unmeasured Quality Changes</h4>
+<p>If the quality of a good rises from one year to the next, the value of a dollar rises, even if the price of the good stays the same.</p>
+<p>If the quality of a good falls from one year to the next, the value of a dollar falls, even if the price of the good stays the same.</p>
+<p>The BLS tries to adjust the price for changes in quality, but such changes are sometimes hard to measure.</p>
+<p>The substitution bias, introduction of new goods, and unmeasured quality changes cause the CPI to overstate the true cost of living.</p>
+<p>The issue is important because many government programs use the CPI to adjust for changes in the overall level of prices.</p>
+<p>The inflation calculated from the CPI overstates the true increase in the cost of living by about 1 percentage point per year.</p>
+</div>
+</div>
+<div id="the-gdp-deflator-versus-the-consumer-price-index" class="section level3">
+<h3><span class="header-section-number">5.2.7</span> The GDP Deflator Versus the Consumer Price Index</h3>
+<p>Economists and policymakers monitor both the GDP deflator and the CPI to gauge how quickly prices are rising. There are, however, <strong>two important differences</strong> between the indexes.</p>
+<p>We discussed the GDP deflator in Chapter <a href="natincome.html#natincome">4</a> (Measuring a Nation’s Income). There we saw that the GDP deflator is calculated by Equation <a href="natincome.html#eq:gdp-deflator">(4.1)</a>. A side-by-side comparison of Equations <a href="costofliving.html#eq:cpi-inflation">(5.2)</a> and <a href="natincome.html#eq:gdp-deflator">(4.1)</a> shows that:</p>
+<ul>
+<li>The GDP deflator reflects the prices of all final goods and services produced domestically, whereas the consumer price index reflects the prices of all final goods and services bought by consumers, irrespective of where those goods and services were produced.</li>
+<li>The Consumer Price Index compares the market value of a fixed basket of goods and services to the price of the basket in the base year (only occasionally does the BLS change the basket) whereas the GDP deflator compares the market value of currently produced final goods and services to the price of the same goods and services in the base year.</li>
+</ul>
+<div id="the-gdp-deflator-versus-the-consumer-price-index-exercise" class="section level4">
+<h4><span class="header-section-number">5.2.7.1</span> The GDP Deflator Versus the Consumer Price Index: Exercise</h4>
+<p>If a Pennsylvania gun manufacturer raises the price of rifles it sells to the U.S. Army, its price hikes will increase:</p>
+<ol style="list-style-type: lower-alpha">
+<li>Both the CPI and the GDP deflator</li>
+<li>Neither the CPI nor the GDP deflator</li>
+<li>The CPI but not the GDP deflator</li>
+<li>The GDP deflator but not the CPI</li>
+</ol>
+<p>Despite the conceptual differences between the CPI and the GDP deflator, the inflation numbers that we get from them tend not to be very different, as we see from Figure <a href="costofliving.html#fig:inflation-GDPDEF-CPIAUCSL">5.2</a>.</p>
+<div class="figure" style="text-align: center"><span id="fig:inflation-GDPDEF-CPIAUCSL"></span>
+<img src="figures/inflation-GDPDEF-CPIAUCSL.png" alt="Two Measures of Inflation: from CPI and from GDP Deflator"  />
+<p class="caption">
+Figure 5.2: Two Measures of Inflation: from CPI and from GDP Deflator
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="correcting-economic-variables-for-the-effects-of-inflation" class="section level2">
+<h2><span class="header-section-number">5.3</span> Correcting Economic Variables For The Effects Of Inflation</h2>
+<p>The CPI is used to correct for the effects of inflation when comparing dollar figures from different dates.</p>
+<p>(See the <a href="https://data.bls.gov/cgi-bin/cpicalc.pl">BLS’s inflation calculator</a>.)</p>
+<p>Quick Quiz</p>
+<ul>
+<li>Suppose CPI in 1914 = 10</li>
+<li>Suppose CPI in 2012 = 230</li>
+<li>Suppose Henry Ford paid his workers $5 a day in 1914</li>
+</ul>
+<p><em>Q</em>: How much is that in 2012 dollars?
+<em>A</em>: $115</p>
+<p>Why?</p>
+<p>The CPI rose by a multiple of 23 (= 230/10) from 1914 to 2012. So, the 2012 equivalent of the 1914 salary would have to be 23 times higher = $5 × 23 = $115.</p>
+<p>In general, if you know a dollar amount in year <span class="math inline">\(a\)</span>, what is the equivalent dollar amount—in purchasing power—in year <span class="math inline">\(b\)</span>?</p>
+<p><span class="math display" id="eq:cpi-correction">\[\begin{equation} 
+  \textrm{Year b amount}=\textrm{Year a amount}\times\frac{\textrm{CPI in Year b}}{\textrm{CPI in Year a}}
+  \tag{5.3}
+\end{equation}\]</span></p>
+<p>Quick Quiz</p>
+<ul>
+<li>Suppose CPI in 1931 = 15.2</li>
+<li>Suppose CPI in 2012 = 229.5</li>
+<li>Suppose Babe Ruth earned $80,000 in 1931</li>
+</ul>
+<p><em>Q</em>: What 2012 salary in 2012 would have had the same purchasing power as Babe Ruth’s salary in 1931?</p>
+<p>Note that prices rose by a multiple of 229.5 ÷ 15.2 = 15.1 over from 1931 to 2012. Therefore, the equivalent salary in 2012 is 15.1 times the 1931 salary, or $80,000 × 15.1 = $1,207,894.</p>
+<p>Quick Quiz</p>
+<p>If the consumer price index is 200 in the year 1980 and 300 today, then $600 in 1980 has the same purchasing power as ___ today.</p>
+<ol style="list-style-type: lower-alpha">
+<li>$400</li>
+<li>$500</li>
+<li>$700</li>
+<li>$900</li>
+</ol>
+<div id="indexation" class="section level3">
+<h3><span class="header-section-number">5.3.1</span> Indexation</h3>
+<p>When some dollar amount is <em>automatically</em> corrected for inflation by law or contract, the amount is said to be indexed for inflation. For example, the social security pensions that most US retirees receive is indexed for the inflation rate calculated from the CPI. See a screen-shot from the Social Security Administration’s web site in Figure <a href="costofliving.html#fig:soc-sec-COLA">5.3</a>.</p>
+<div class="figure" style="text-align: center"><span id="fig:soc-sec-COLA"></span>
+<img src="figures/soc-sec-COLA.png" alt="Social Security Pension Payments in the US are Indexed to the CPI"  />
+<p class="caption">
+Figure 5.3: Social Security Pension Payments in the US are Indexed to the CPI
+</p>
+</div>
+</div>
+<div id="correcting-economic-variables-for-the-effects-of-inflation-real-and-nominal-interest-rates" class="section level3">
+<h3><span class="header-section-number">5.3.2</span> Correcting Economic Variables For The Effects Of Inflation: Real and Nominal Interest Rates</h3>
+<p>Interest represents a payment in the future for resources borrowed in the past. Conversely, interest represents a receipt in the future for resources loaned in the past.</p>
+<p>The <strong>nominal interest rate</strong> is the interest rate usually mentioned in borrowing and lending contracts.</p>
+<p>It is not corrected for inflation.</p>
+<p>It is the interest rate that a bank pays.</p>
+<p>The <strong>real interest rate</strong> is the interest rate that is corrected for the effects of inflation.</p>
+<p>The inflation correction is done as in Equation <a href="costofliving.html#eq:real-interest-rate">(5.4)</a>:</p>
+<p><span class="math display" id="eq:real-interest-rate">\[\begin{equation} 
+  \textrm{real interest rate}=\textrm{nominal interest rate}-\textrm{inflation rate}
+  \tag{5.4}
+\end{equation}\]</span></p>
+<p>Let’s apply this equation:</p>
+<ul>
+<li>Suppose you borrowed $1,000 for one year.</li>
+<li>Suppose the nominal interest rate on the loan was 15%</li>
+<li>Suppose during the year of the loan, inflation was 10%</li>
+</ul>
+<p>Then, the real interest rate = 15% - 10% = 5%</p>
+<p>For more insight into this correction, consider the following example.</p>
+<ul>
+<li>Suppose you loaned $100 to a friend at the nominal interest rate of 15%</li>
+<li>So, a year later, you will get back $115</li>
+<li>Suppose inflation is 10%. In particular, the price of gold increased 10%.</li>
+<li>Had you instead bought gold with your $100, a year later you could have sold it for $110.</li>
+<li>So, by lending to your friend, you actually earned $5, over and above inflation.</li>
+<li>So, real interest rate is 5%</li>
+</ul>
+<p>Note that the nominal interest rate is usually higher than zero. Would you put your money in a bank that pays -5 percent interest? In that case, if you deposit $100 today, you’d have only $95 a year later. You’d be better off keeping your cash in your wallet or under your mattress, where the $100 will remain $100 a year later. For this reason, nominal interest rates are rarely negative.</p>
+<p>However, the real interest rate can be negative, when the inflation rate exceeds the nominal interest rate, and it often is.</p>
+<p>Figure <a href="costofliving.html#fig:interest-rates-DFII5-DGS5">5.4</a> shows US data on nominal and real interest rates. The nominal interest rate in this case is the <a href="https://fred.stlouisfed.org/series/DGS5">5-Year Treasury Constant Maturity Rate</a> and the real interest rate is the <a href="https://fred.stlouisfed.org/series/DFII5">5-Year Treasury Inflation-Indexed Security, Constant Maturity</a>. These show the interest rates that lenders to the US Treasury get for 5-year loans. The “inflation-indexed” interest rate is the real interest rate, as the name suggests. Note that the real interest rate can indeed be negative, on occasion.</p>
+<div class="figure" style="text-align: center"><span id="fig:interest-rates-DFII5-DGS5"></span>
+<img src="figures/DFII5-DGS5.png" alt="Nominal and Real Interest Rates"  />
+<p class="caption">
+Figure 5.4: Nominal and Real Interest Rates
+</p>
+</div>
+<p>Quick Quiz</p>
+<p>You deposit $2,000 in a savings account, and a year later you have $2,100. Meanwhile, the consumer price index rises from 200 to 204. In this case, the nominal interest rate is _____ percent, and the real interest rate is _____ percent.</p>
+<ol style="list-style-type: lower-alpha">
+<li>1; 5</li>
+<li>3; 5</li>
+<li>5; 1</li>
+<li>5; 3</li>
+</ol>
 
+</div>
+</div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-<a href="the-pool-of-tears.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="natincome.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="natincome.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="growth.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -374,7 +623,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/UdayanRoy62/intromacro/edit/master/03-race.Rmd",
+"link": "https://github.com/UdayanRoy62/intromacro/edit/master/06-costofliving.Rmd",
 "text": "Edit"
 },
 "history": {
@@ -382,7 +631,7 @@ gitbook.start({
 "text": null
 },
 "view": {
-"link": "https://github.com/UdayanRoy62/intromacro/blob/master/03-race.Rmd",
+"link": "https://github.com/UdayanRoy62/intromacro/blob/master/06-costofliving.Rmd",
 "text": null
 },
 "download": null,

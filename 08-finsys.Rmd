@@ -1,0 +1,229 @@
+# Saving, Investment, and the Financial System {#finsys}
+
+## Introduction {#finsys-intro}
+
+In Chapter \@ref(growth), we saw that economic growth requires saving and investment. We also discussed whether the government could --- or should --- influence or control an economy's levels of saving and investment. In this chapter, we will take a closer look at these questions. Specifically, we will describe the __theory of loanable funds__, which is the standard long-run theory of saving and investment, for a closed economy.^[A __closed economy__ is one in which the residents have no economic contact---no buying and selling of goods and services, no borrowing and lending of funds, no migration, nothing---with foreigners. Ans economy that is not closed is called an __open economy__. We will discuss the macroeconomics of open economies in other chapters.]
+
+<!--What’s in This Chapter?
+Why should we care about a country’s levels of saving and investment?
+What is a nation’s financial system? What does it do and why does it matter?
+Why are the levels of saving and investment high at some times (or, for some countries) and low at other times (or, for other countries)?
+What can the government do to change a nation’s saving and investment levels?
+What should the government do in this regard?
+Importance of Saving and Investment
+Our standard of living depends on our productivity
+Our productivity depends on the availability of physical capital, human capital, natural resources and technology
+Improvements in our standard of living (or, simply, economic growth) requires increases in the availability of the above resources
+And that in turn requires saving and investment
+Saving and Investment-->
+
+## Saving, Investment, and the Financial System
+
+We all know what __saving__ means. If you earn an income of \$50,000 a year and spend \$40,000 on various kinds of consumption, then your saving is \$10,000. If your income is \$50,000 and your consumption is \$70,000, then your saving is -\$20,000.
+
+Let's consider the first of the two examples in the previous paragraph. Her income is \$50,000 and her consumption spending is \$40,000. What exactly does she do with the \$10,000 that she saved? Stick it under a mattress? 
+
+Most likely, no. 
+
+She may have deposited the money in a bank account. In that case, she probably got a receipt. That receipt is a __financial asset__. She could go back to the bank at some time in the future and use her receipt to reclaim her money.
+
+She may have bought __bonds__ or __stocks__ or some other financial asset with the \$10,000 she had saved. She could sell her financial assets at some time in the future in exchange for the sale value.
+
+My point is that __saving involves lending and is simply the sale of loanable funds and the purchase of financial assets__.
+
+In Section \@ref(gdp-components) of Chapter \@ref(natincome), __investment__ was defined as:
+“the purchase of goods (called capital goods) that will be used in the future to produce more goods and services. Investment is the sum of purchases of business capital, residential capital, and inventories.”
+In short, investment is spending by businesses on equipment, structures, and software, and spending by households on new homes.
+
+Spending on these things is often paid for with borrowed money. Those who wish to buy a building of some sort may get a loan from a bank. Businesses that need to expand their production or R\&D efforts may sell bonds or stocks. In all these cases, the borrower takes cash from the lender and hands over a receipt or financial asset of some kind. So, __investment involves borrowing and is simply purchase of loanable funds and the sale of financial assets__.
+
+You are no doubt familiar with the __theory of supply and demand__. You no doubt know that economists use that theory to explore the buying and selling of various goods and services. For any traded commodity, the theory imagines a __demand curve__ which shows how buyers respond to the __price__ of the commodity, and a __supply curve__ which shows how sellers respond to the price of the commodity. The intersection of the two curves then determines the __equilibrium price__ of the commodity and the __equilibrium quantity__ bought and sold.
+
+As saving is the sale of loanable funds and investment is the purchase of loanable funds, in this chapter, I can --- and I will --- use the theory of supply and demand to analyze the market for loanable funds. The __market for loanable funds__ is sometimes called the __financial system__.
+
+The theory of supply and demand, when used to analyze the market for loanable funds, is called the __theory of loanable funds__. 
+
+To apply the theory of supply and demand to the market for loanable funds, we need to specify a price for the loanable funds that are supplied by lenders (savers) and demanded by borrowers (investors). That price is the __interest rate__. 
+
+Just as a supplier of ice cream sees the price of ice cream as her compensation for providing ice cream to the buyer, the lender sees the interest rate as her compensation for letting someone else use her money for the period of the loan. Just as the buyer of ice cream sees the price as the sacrifice made for the consumption of ice cream, the borrower sees the interest rate as the sacrifice made for the use of another person's money for the period of the loan.
+
+We are now ready to apply the theory of supply and demand to study the market for loanable funds. 
+
+## The Financial System 
+
+The financial system consists of the institutions in the economy that help to match households’ saving with firms’ investment.
+It moves the economy’s scarce resources from savers to investors (or, from lenders to borrowers).
+
+### Financial Institutions In The U.S. Economy
+
+Financial institutions can be grouped into two categories: 
+
+* financial markets: these are the institutions through which savers can directly provide funds to borrowers. Financial Markets include:
+    * Stock Market
+    * Bond Market
+* financial intermediaries: these are financial institutions through which savers can indirectly provide funds to borrowers. Financial Intermediaries include:
+    * Banks
+    * Mutual Funds
+
+#### Financial Markets: The Bond Market
+
+A bond is a certificate of indebtedness that specifies obligations of the borrower to the holder of the bond.
+The sale of bonds to raise money is called debt financing.
+
+Characteristics of a Bond:
+
+* Term:  The length of time until the bond matures.
+* Credit Risk:  The probability that the borrower will fail to pay some of the interest or principal.
+* Tax Treatment:  The way in which the tax laws treat the interest on the bond. Municipal bonds are federal tax exempt.
+
+#### Financial Markets: The Stock Market
+
+Stock represents a claim to partial ownership in a firm and is therefore, a claim to the profits that the firm makes.
+The sale of stock to raise money is called equity financing.
+Compared to bonds, stocks offer both higher risk and potentially higher returns.
+
+The most important stock exchanges in the United States are the New York Stock Exchange, the American Stock Exchange, and NASDAQ.
+
+Most newspaper stock tables provide the following information:
+
+* Price (of a share)
+* Volume (number of shares sold)
+* Dividend (profits paid to stockholders)
+* Price-earnings ratio
+
+#### Financial Intermediaries: Banks
+
+Banks take deposits from people who want to save and use the deposits to make loans to people who want to borrow.
+Banks pay depositors interest on their deposits and charge borrowers slightly higher interest on their loans.
+Banks help create money by allowing people to write checks against their deposits.
+Money is anything that people can easily use as payment in transactions.
+This facilitates the purchases of goods and services.
+
+#### Financial Intermediaries: Mutual Funds
+
+A mutual fund sells shares to the public and uses the proceeds to buy various types of stocks, bonds, and other financial assets. 
+The profits/losses are shared with the shareholders.
+Mutual funds enable people with small amounts of money to easily diversify.
+
+## Saving And Investment In The National Income Accounts
+
+Recall from Equation \@ref(eq:natincidentity) that GDP is both total income in an economy and total expenditure on the economy’s output of goods and services: $Y = C + I + G + NX$.
+
+In this chapter we assume a _closed economy_, which is one that does not engage in international trade. 
+In such an economy, net exports is necessarily zero: $NX = 0$. 
+Therefore, $Y = C + I + G + NX$ becomes $Y = C + I + G$.
+Now, subtract $C$ and $G$ from both sides of the equation to get $Y – C – G = I$.
+
+### Saving = Investment
+
+\begin{eqnarray}
+\textrm{National Saving} &=& \textrm{Private Saving} + \textrm{Public Saving}\\
+S &=& S_p + S_g.
+  (\#eq:saving-pub-priv)
+\end{eqnarray}
+
+
+## Budget Surplus and Budget Deficit
+
+If $T > G$, the government runs a __budget surplus__ because it receives more money than it spends.
+$T – G$ represents __public saving__.
+If $G > T$, the government runs a __budget deficit__ because it spends more money than it receives in tax revenue.
+
+Fun fact: In the 2013 fiscal year, the US federal government ran a budget deficit of \$680 billion (or, 4.1 percent of the GDP of the United States).
+
+## The market for loanable funds
+
+We have just seen that the amount of saving must be equal to the amount of investment. But what about desired saving and desired investment? They must be equal to their corresponding actual amounts, as households and businesses cannot be forced to do what they don’t want to do. So, what makes desired saving equal to desired investment? 
+
+For the economy as a whole, desired saving must be equal to desired investment:
+\begin{equation}
+S = I
+  (\#eq:saving-equals-investment)
+\end{equation}
+
+This is achieved in the market for loanable funds. 
+You have seen how the buyers’ desired quantity of ice cream is made equal to the sellers’ desired quantity of ice cream in the ice cream market. 
+A similar process in the market for loanable funds makes desired saving equal to desired investment.
+
+The market for loanable funds is the market in which:
+
+* The supply of loans come from households with savings
+* The demand for loans come from businesses (and households) that wish to spend for investment
+* The price of loans reaches an equilibrium at which the supply of loans becomes equal to the demand for loans
+
+The process is not unlike what goes on in other markets, such as the market for ice cream.
+Financial markets work much like other markets in the economy.
+The equilibrium of the supply and demand for loanable funds determines the real interest rate.
+The real interest rate is the price of a loan.
+It represents the amount that borrowers to take a loan and the amount that lenders receive to make a loan.
+More precisely, the price of a loan is the real interest rate.
+The real interest rate is the inflation-adjusted interest rate.
+real interest rate = nominal interest rate – inflation rate
+
+<!--Figure 1 The Market for Loanable Funds-->
+
+## Government Policies can affect Saving and Investment
+
+1. Taxes can affect saving
+2. Taxes can affect investment
+3. Government budgets can affect saving
+
+### Policy 1: Saving Incentives
+
+The interest earned on savings is considered taxable income.
+Taxes on interest income substantially reduce the future payoff from current saving.
+As a result, such taxes reduce the incentive to save.
+
+* An income tax cut increases the incentive for households to save, at any given interest rate. 
+* The supply curve of loanable funds shifts to the right.
+* The equilibrium interest rate decreases.
+* The quantity of saving and investment increases.
+
+<!--Figure 2 An Increase in the Supply of Loanable Funds-->
+
+### Policy 2: Investment Incentives
+
+Businesses pay taxes on their profits.
+The government may reduce a firm’s profits tax on the condition that it spends more on investment.
+This is called an investment tax credit.
+An investment tax credit increases the incentive firms have to borrow for investment purposes. So, it:
+
+* Shifts the demand curve for loanable funds to the right.
+* The interest rate increases and saving and investment increase as well.
+
+<!--Figure 3 An Increase in the Demand for Loanable Funds-->
+
+### Policy 3: Government Budget Deficits and Surpluses
+
+When the government spends more than it receives in tax revenues, $T – G < 0$.
+The gap is called the budget deficit.
+The government must borrow money in the market for loanable funds to fill the gap.
+The accumulation of past budget deficits is called the government debt.
+
+Government borrowing to pay for its budget deficit reduces the supply of loanable funds available to pay for investment by households and firms (the private sector).  
+This fall in investment is referred to as crowding out.
+The budget deficit borrowing crowds out private borrowers who are trying to find loans for investment.
+
+An increase in the budget deficit decreases the supply of loanable funds. 
+
+* The supply curve of loanable funds shifts to the left. 
+* The interest rate increases.
+* Saving and investment decrease.
+
+<!--Figure 4: The Effect of a Government Budget Deficit-->
+
+Conversely, an increase in the budget surplus increases the supply of loanable funds, reduces the interest rate, and increases the quantity of saving and investment.
+
+## Should a Nation’s Government Try to Change Its Levels of Saving and Investment?
+
+There’s no clear answer.
+More saving and investment is not always good for us. 
+While the future is important, so is the present. 
+While saving and investment improve our future standard of living, they reduce our current standard of living.
+
+The level of saving and investment that comes out of the interactions of savers and investors in the market for loanable funds is usually—though not always—just right.
+So, the government should intervene only when:
+
+* It is clear that the market is likely to malfunction, and
+* The government is reasonably sure that it would be able to do a better job than the market
+

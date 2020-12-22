@@ -1,0 +1,419 @@
+# The Influence of Monetary and Fiscal Policy on Aggregate Demand {#ADpolicy}
+
+## Introduction
+
+_Monetary policy_ refers to the control of a country’s quantity of money by its central bank.
+We saw the long-run effects of monetary policy in Chapter 12 (Money Growth and Inflation).
+
+_Fiscal policy_ refers to the government’s decisions about the government’s purchases and taxation.
+We saw the long-run effects of fiscal policy in Chapter 8 (Saving, Investment, and the Financial System).
+
+Now we will look at the short-run effects of monetary policy and fiscal policy.
+
+In previous chapters, we have seen that the AD curve shifts _rightward_ when we have an _increase_ in the demand for:
+
+* Consumption, which could happen because of:
+    * an increase in consumer optimism
+    * tax cuts
+    * increases in prices of assets (stocks, bonds, real estate)
+* Investment, which could happen because of:
+    * technological progress
+    * an increase in business confidence
+    * business tax cuts
+    * an increase in the money supply leading to lower interest rates
+* Government purchases
+* Net Exports, which could happen because of:
+    * increases in foreign GDP
+    * the expectation of an increase in the value of a foreign currency leading to an immediate increase in the value of the foreign currency
+
+When the AD curve shifts, it causes short-run fluctuations in output and employment.
+Monetary and fiscal policy are sometimes used to offset those shifts and stabilize the economy.
+This chapter takes a closer look at how monetary policy and fiscal policy shift the Aggregate Demand curve.
+
+## Aggregate demand and the interest-rate effect
+
+In previous chapters, we have seen that there are three effects that help us think about  Aggregate Demand. Specifically, the aggregate demand curve slopes downward for three reasons:
+
+* The wealth effect
+* The interest-rate effect
+* The exchange-rate effect
+
+See the previous chapter for further details.
+
+## The Theory of Liquidity Preference
+
+[John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) developed the theory of liquidity preference to explain the behavior of the interest rate in the short run.
+
+According to this theory, the interest rate adjusts to balance the supply and demand for money.
+
+(Warning: The theory of interest rates in Chapter 8 no longer applies. That was the long run; now it’s the short run.)
+
+Recall that in previous chapters we have seen two kinds of interest rates: nominal and real.
+
+* The nominal interest rate is what people commonly understand as the interest rate. 
+    * It is not adjusted for inflation.
+    * It measures how fast the money in your bank account grows over time.
+* The real interest rate = nominal interest rate – expected inflation.
+    * It is adjusted for inflation.
+    * It measures how fast the purchasing power of the money in your bank account is expected to grow.
+
+In an earlier chapter, I had said that the real interest rate = nominal interest rate – inflation.
+Now I am saying that the real interest rate = nominal interest rate – expected inflation.
+
+_Q_: Why is the definition different in the short run?
+
+_A_: In long-run analysis it is assumed that expected inflation = actual inflation.
+
+The theory of liquidity preference is a short-run theory
+of the _nominal_ interest rate.
+
+However, short-run analysis assumes that the expected inflation is exogenous.
+
+Therefore, any change in the nominal interest rate causes an identical change in the real interest rate.
+
+So, the theory of liquidity preference can also be seen as a theory of the _real_ interest rate.
+
+Consequently, from now on in this chapter, I will not distinguish between nominal and real interest rates.
+
+### The Theory of Liquidity Preference: Money Supply
+
+The money supply is controlled by the Fed through:
+
+* Open-market operations
+* Changes in the reserve requirements
+* Changes in the discount rate
+
+Because it is fixed by the Fed, the quantity of money supplied does not depend on the interest rate.
+The money supply is consequently represented by a vertical supply curve.
+
+<!--Figure 1 Equilibrium in the Money Market-->
+
+### The Theory of Liquidity Preference: Money Demand
+
+Money demand is determined by three main factors:
+
+#### interest rate↑⇒ money demand ↓
+
+People choose to hold money instead of other assets that offer higher rates of return because money can be used to buy goods and services.
+
+The opportunity cost of holding money is the interest that could be earned on interest-earning assets.
+An increase in the interest rate raises the opportunity cost of holding money.
+
+As a result, the quantity of money demanded decreases.
+
+#### overall price level↑⇒ money demand↑
+
+When prices rise people need to keep more cash at hand for transactions purposes.
+
+#### real GDP↑⇒ money demand↑
+
+An increase in real GDP represents an increase in real output, real income, and real expenditure. When people spend more they naturally need to keep more cash at hand for transactions purposes.
+
+#### Overall: P↑, Y↑, r↓ ⇒ Money Demand↑
+
+### The Theory of Liquidity Preference: Equilibrium in the Money Market
+
+According to the theory of liquidity preference:
+
+The interest rate adjusts to balance the supply and demand for money.
+
+There is one interest rate, called the equilibrium interest rate, at which the quantity of money demanded equals the quantity of money supplied.
+
+<!--Figure 1 Equilibrium in the Money Market-->
+
+<!--Figure 2 The Money Market and the Slope of the Aggregate-Demand Curve-->
+
+Assume the following about the economy:
+
+* For any given price level, the interest rate adjusts to balance the supply and demand for money.
+* The interest rate determines aggregate demand
+along with the other factors we saw in the previous chapter.
+
+So, Price Level influences the Interest Rate which in turn influences Aggregate Demand. 
+
+This gives us the AD curve.
+
+The level of output is determined by the equality of aggregate demand and aggregate supply.
+
+### The Downward Slope of the Aggregate Demand Curve: interest rate effect
+
+* overall price level (P)↑⇒ money demand↑
+* Higher money demand leads to a higher interest rate.
+* At a higher interest rate the quantity of goods and services demanded falls.
+    * interest rate↑⇒ investment spending by businesses (I)↓
+    * even consumption spending (C) may ↓
+    * Therefore, P↑⇒ C + I + G + NX↓
+
+## The Downward Slope of the Aggregate Demand Curve
+
+The end result of this analysis is a negative relationship between the price level and the quantity of goods and services demanded.
+
+## Monetary Policy, expansionary and contractionary
+
+### Changes in the Money Supply
+
+The Fed can shift the aggregate demand curve when it changes its monetary policy.
+
+#### Expansionary Monetary Policy
+
+When the Fed increases the money supply, it lowers the interest rate and increases the quantity of goods and services demanded at any given price level, shifting aggregate-demand to the right.
+
+* An increase in the money supply shifts the money supply curve to the right.
+* The interest rate falls.
+* Falling interest rates increase the quantity of goods and services demanded.
+
+<!--Figure 3 Expansionary Monetary Policy-->
+
+#### Contractionary Monetary Policy
+
+When the Fed reduces the money supply, it raises the interest rate and reduces the quantity of goods and services demanded at any given price level, shifting aggregate-demand to the left.
+
+### The Role of Interest-Rate Targets in Fed Policy
+
+Monetary policy can be described either in terms of the money supply or in terms of the interest rate.
+Changes in monetary policy can be viewed 
+either in terms of a changing target for the interest rate 
+or in terms of a change in the money supply.
+A target for the federal funds rate affects the money market equilibrium, which influences aggregate demand.
+
+### Expansionary Monetary Policy: Criticisms
+
+#### Crisis of 2008: monetary stimulus
+
+The Federal Reserve did all it could.
+But the Federal Funds Rate could not be reduced below zero!
+
+Critics of expansionary monetary policy have also argued that even if an increase in the money supply succeeds in reducing the interest rate, the fall in the interest rate may not lead to an increase in investment spending by businesses (I).
+
+Why? Business investment spending is heavily influenced by optimism or pessimism; interest rates play a minor role.
+
+## HOW FISCAL POLICY INFLUENCES AGGREGATE DEMAND
+
+Fiscal policy refers to the government’s choices regarding
+
+* government purchases (G) and 
+* taxes (T).
+
+As we saw in an earlier chapter, fiscal policy influences saving, investment, and growth in the long run. 
+
+In the short run, however, fiscal policy primarily affects the aggregate demand.
+
+### Fiscal policy: expansionary and contractionary
+
+#### Expansionary fiscal policy: G↑ or T↓
+
+This is also called a "fiscal stimulus" or a "budgetary stimulus". It decreases government saving T – G.
+
+#### Contractionary fiscal policy: G↓ or T↑
+
+This is also called “fiscal austerity” or “belt tightening”. It increases government saving T – G.
+
+### Changes in Government Purchases
+
+When policymakers change the money supply or taxes, the effect on aggregate demand is indirect—--through the spending decisions of firms or households.
+
+When the government alters its own purchases of goods or services (G), it shifts the aggregate-demand curve directly.
+
+There are two important macroeconomic consequences of a change in government purchases:
+
+* The multiplier effect
+* The crowding-out effect
+
+#### The Multiplier Effect
+
+Government purchases are said to have a multiplier effect on aggregate demand. Each dollar spent by the government may raise the aggregate demand for goods and services by more than a dollar.
+
+Government spending increases income and thereby increases consumer spending which leads to further increases in income.
+
+G↑⇒ aggregate demand↑⇒Y↑⇒C↑⇒ aggregate demand ↑ ⇒ Y↑ ⇒ C↑⇒Y↑⇒C↑⇒Y↑⇒C↑⇒Y↑⇒C↑…
+
+<!-- Figure 4 The Multiplier Effect-->
+
+#### A Formula for the Spending Multiplier
+
+The formula for the spending multiplier is:
+
+\begin{equation} 
+  \textrm{Government Spending Multiplier}\equiv\frac{1}{1-\textrm{MPC}}
+  (\#eq:gov-spending-multiplier)
+\end{equation}
+
+An important number in this formula is the marginal propensity to consume (MPC).
+
+The MPC is the fraction of every additional dollar of income that a household spends on domestic goods and services.
+The bigger the MPC, the bigger the spending multiplier.
+
+If the MPC is 3/4, then the multiplier will be:
+Multiplier = 1/(1 - 3/4) = 4. In this case, a \$20 billion increase in government spending generates \$80 billion of increased demand for goods and services.
+
+If the MPC is 9/10, then the multiplier will be:
+Multiplier = 1/(1 - 9/10) = 10. 
+In this case, a \$20 billion increase in government spending generates \$200 billion of increased demand for goods and services.
+
+#### The Size of the Spending Multiplier
+
+* The continuous chain effect described by the multiplier effect works only if there is enough unemployed labor available.
+* The multiplier effect will end up creating jobs in other countries if people end up spending their incomes on imported goods.
+
+### The Crowding-Out Effect
+
+Government spending may not affect the economy as strongly as predicted by the government spending multiplier.
+
+* An increase in government purchases causes GDP to increase (as indicated by the multiplier effect)
+* This increases the demand for money.
+* The liquidity preference theory argues that people wish to carry more money when incomes increase because of increased shopping.
+* This causes the interest rate to rise.
+* A higher interest rate reduces investment spending and, therefore, aggregate demand.
+* This reduction in demand that results when a fiscal expansion raises the interest rate is called the crowding-out effect.
+* The crowding-out effect tends to dampen the effects of fiscal policy on aggregate demand.
+
+<!--Figure 5 The Crowding-Out Effect-->
+
+When the government increases its purchases by \$20 billion, the aggregate demand for goods and services could rise by more or less than \$20 billion, depending on whether the multiplier effect or the crowding-out effect is larger.
+
+### Changes in Taxes
+
+When the government cuts personal income taxes, it increases households’ take-home pay.
+
+Households save some of this additional income.
+
+Households also spend some of the tax cut on consumer goods.
+
+Increased consumption spending shifts the aggregate-demand curve to the right.
+
+The size of a tax cut’s impact on aggregate demand depends on:
+
+* the multiplier effect
+* the crowding-out effect
+* whether the tax cut is perceived to be temporary or permanent
+
+#### Tax cuts: temporary v. permanent
+
+The effect of a tax cut on aggregate demand is also affected by households’ perceptions about the permanence of the tax change.
+
+If the tax cut is perceived to be temporary, most of the tax cut will be saved rather than spent.
+
+Therefore, a temporary tax cut will not boost aggregate demand much.
+
+## Stabilization policy: for and against
+
+The efforts of the government to increase aggregate demand during a recession are called stabilization policy.
+
+Economic stabilization has been an explicit goal of U.S. policy since the Employment Act of 1946.
+
+This act states that “it is the continuing policy and responsibility of the federal government to … promote full employment and production.”
+
+### The Case for Active Stabilization Policy
+
+The Employment Act has two implications:
+
+* The government should avoid being the cause of economic fluctuations.
+* The government should respond to changes in the private economy in order to stabilize aggregate demand.
+    * If private-sector activity pushes aggregate demand to the left (thereby causing a recession), the government should do what it can to push aggregate demand to the right (thereby ending the recession)
+
+### What is the evidence that stabilization policy works?
+
+* The large increases in public spending in the US after WW II are widely regarded as having played a crucial role in rescuing the economy from the Great Depression.
+    * Key point: if the private sector refuses to spend, the government may have to be the spender of last resort.
+* Similarly, the large tax cuts during the (short-lived) Kennedy administration are also widely regarded as having led to rapid growth.
+
+### The Case Against Active Stabilization Policy
+
+Some economists argue that monetary and fiscal policy destabilizes the economy.
+
+Why?
+
+Because monetary and fiscal policy affect the economy with a substantial lag.
+These lagged (or mistimed) effects destabilize the economy instead of stabilizing it.
+Therefore, opponents of stabilization policy say that the economy should be left to deal with the short-run fluctuations on its own.
+
+#### How lags reduce the effectiveness of monetary policy
+
+Most economists believe that it takes at least six months for monetary policy to affect output and employment. 
+And these effects can then last for several years.
+Economic forecasting is very imprecise. It is difficult to implement monetary policy six months before a recession.
+When monetary policy reacts late, the AD curve may shift right after the economy has already recovered. 
+This would destabilize the economy.
+
+#### How lags reduce the effectiveness of fiscal policy
+
+The lags that reduce the effectiveness of fiscal policy are largely due to the sluggishness of the political process.
+
+### Crisis of 2008: fiscal stimulus
+
+The US government tried a \$800 billion fiscal stimulus consisting of tax cuts and spending.
+According to the Congressional Budget Office, it worked.
+But the stimulus was too small.
+There was insurmountable political opposition to any fiscal stimulus from the Republican Party.
+They pointed to the large government debt that had accumulated.
+
+### Budget deficits and the national debt
+
+Recall that expansionary fiscal policy leads to an increase in government borrowing (budget deficit).
+
+If a government keeps borrowing year after year, its debt accumulates.
+
+As the government’s debt accumulates, lenders may start to worry about the possibility of default …
+
+As a result, the interest rate the government has to pay may rise.
+
+This rise in the interest rate may further increase the probability of default.
+
+As a result, the interest rate the government has to pay may rise again.
+
+This rise in the interest rate may increase the probability of default yet again.
+
+And so on and on … 
+
+At some point, the first flickers of suspicion among lenders may turn into a self-fulfilling prophecy, and default may become inevitable.
+
+This is especially the case when the interest rate the government has to pay exceeds the rate of growth of the economy’s income.
+
+A country with low government debt has a lot of room to use fiscal stimulus to fight a recession.
+
+#### The Balanced Budget Multiplier
+
+In theory, it is possible to use expansionary fiscal policy without any additional borrowing by the government!
+
+* Suppose both government spending and taxes rise by \$800 billion.
+* No additional borrowing would be necessary
+* And yet, aggregate demand would increase. (Why?)
+
+If \$800 billion fell from the sky, people would spend part of it (say, \$700 billion) and save the rest (\$100 billion).
+
+By reverse reasoning, if the government took away \$800 billion in taxes, spending by taxpayers would fall by \$700 billion.
+
+But, the government’s spending would rise by \$800 billion.
+Therefore, on balance, total spending would rise by \$100 billion.
+
+In this way, the balanced-budget expansion of both government spending and taxes increases the aggregate demand for domestic goods and services without any increase in government borrowing!
+
+Unfortunately, I know of no examples of this trick actually being implemented.
+
+#### Automatic Stabilizers
+
+Automatic stabilizers are changes in fiscal policy that stimulate aggregate demand when the economy goes into a recession without policymakers having to do anything.
+
+Examples of automatic stabilizers include:
+
+* a progressive tax system
+* unemployment insurance
+* means-tested forms of government spending.
+
+When incomes decrease, so do the government’s tax revenues. This automatic tax cut boosts aggregate demand just when such a boost is most needed.
+
+Government spending on unemployment insurance, welfare benefits, and other forms of income support also act as automatic stabilizers.
+
+Unfortunately, these automatic stabilizers are not always sufficiently strong and, therefore, policy makers may still need to enact stabilization policies.
+
+#### Balanced Budget Amendment
+
+Some politicians, upset by our huge budget deficits, support a balanced budget amendment to the US constitution.
+A balanced budget constitutional amendment would force the government to always keep tax revenue equal to government spending (G = T, always).
+
+Such an amendment would end the role of automatic stabilizers in our current system.
+
+We have seen before that during a recession, incomes decrease and the government’s tax revenues also decrease. 
+Under a balanced budget amendment, the fall in tax revenues would force the government to cut government spending. 
+A reduction in government spending during a recession would be highly inappropriate. For this reason, many economists are opposed to a balanced budget amendment.
+However, keeping the budget balanced in the long run may be a good idea.

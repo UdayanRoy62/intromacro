@@ -1,0 +1,231 @@
+# Unemployment and Its Natural Rate {#unemployment}
+
+## Introduction
+
+Unemployment exists when people are willing and able to work but are unable to find jobs. It is a stark indication of economic inefficiency, besides being a serious human problem for the unemployed. The problem of unemployment is usually seen as two separate problems:
+
+* The long-run problem, which focuses on reducing the natural rate of unemployment, and 
+* the short-run problem, which focuses on reducing the cyclical rate of unemployment.
+
+__Natural unemployment__ is unemployment that does not go away on its own even in the long run.
+It is the amount of unemployment that the economy normally experiences.
+This chapter focuses on the natural rate of unemployment.
+
+__Cyclical unemployment__ refers to the fluctuations in unemployment around its natural rate.
+It is associated with with short-term ups and downs of the business cycle.
+This chapter ignores cyclical unemployment.
+
+## The Data on Unemployment
+
+In looking at the data on unemployment, I will focus on three basic questions:
+1. How does government measure unemployment?
+2. What problems arise in interpreting the unemployment data?
+3. How long are the unemployed typically without work?
+
+### The Data on Unemployment: How Is Unemployment Measured?
+
+In the US, unemployment is measured by the Bureau of Labor Statistics (BLS).
+It surveys 60,000 randomly selected households every month.
+The survey is called the Current Population Survey.
+
+Based on the answers to the survey questions, the BLS places each adult into one of three categories:
+
+* Employed
+* Unemployed
+* Not in the labor force
+
+Note that:
+
+* Labor force = employed + unemployed
+* Adult population = labor force + not in the labor force
+
+The BLS considers a person an adult if he or she is over 16 years old.
+
+An adult is considered __employed__ if he or she has spent most of the previous week working at a paid job.
+
+An adult is considered __unemployed__ if he or she:
+
+* is on temporary layoff, 
+* is looking for a job, or 
+* is waiting for the start date of a new job.
+
+A person who is neither employed nor unemployed is __not in the labor force__.
+Examples include: 
+
+* a full-time student, 
+* a homemaker, or 
+* a retiree. 
+
+<!--Figure 1 The Breakdown of the Population in January 2016-->
+
+The __unemployment rate__ is the percentage of the labor force that is unemployed.
+
+The __labor-force participation rate__ is the percentage of the adult population that is in the labor force.
+
+<!--Table 1: The Labor-Market Experiences of Various Demographic Groups
+Figure 2: Unemployment Rate since 1960
+Unemployment Rate since 1950
+Figure 3 Labor Force Participation Rates for Men and Women Since 1950
+Figure 3: Labor-Force Participation Rates for Men and Women since 1950
+
+What explains the rise in the female participation rate?
+New technology in the home
+Women have more time available for paid work
+Improved birth control
+Fewer children to take care of
+Changing political and social attitudes
+Greater employment opportunities for educated women
+What explains the fall in the male participation rate?
+Longer schooling
+Earlier retirement and longer lives
+Higher female employment
+More fathers stay home to raise children-->
+
+### The Data on Unemployment: Does the Unemployment Rate Measure What We Want It To?
+
+It is difficult to distinguish between a person who is unemployed and a person who is not in the labor force.
+__Discouraged workers__, people who would like to work but have given up looking for jobs after an unsuccessful search, don’t show up in unemployment statistics.
+Other people may claim to be unemployed in order to receive financial assistance, even though they aren’t looking for work.	
+
+<!--Table 2: Alternative Measures of Labor Underutilization-->
+
+### The Data on Unemployment: How Long Are the Unemployed without Work?
+
+* Most spells of unemployment are short.
+* Most unemployment observed at any given time is long-term.
+* Most of the economy’s unemployment problem is attributable to relatively few workers who are jobless for long periods of time.
+
+## Why Are There Always Some People Unemployed?
+
+### The Ideal Labor Market
+
+In an ideal labor market, wages would adjust to balance the supply and demand for labor, ensuring that all workers are fully employed.
+
+### Frictional unemployment
+
+Frictional unemployment refers to the unemployment that results from the time that it takes to match workers with jobs. 
+It takes time for workers to search for the jobs that best suit their tastes and skills.
+This unemployment occurs even when labor supply equals labor demand.
+
+Job search:
+
+* is the process by which workers find appropriate jobs given their tastes and skills. 
+* it results from the fact that it takes time for qualified individuals to be matched with appropriate jobs.
+
+Frictional unemployment:
+
+* It is not caused by a wage rate higher than equilibrium.
+* It is caused by the time spent searching for the “right” job.
+* Search unemployment is inevitable because the economy is always changing.
+Changes in the composition of demand among industries or regions are called sectoral shifts. 
+It takes time for workers to search for and find jobs in new sectors. 
+
+#### Public Policy and Job Search
+
+Government programs can affect the time it takes unemployed workers to find new jobs.
+These programs include the following:
+
+* Government-run employment agencies
+* Public training programs
+* Unemployment insurance
+
+Government-run employment agencies give out information about job vacancies in order to match workers and jobs more quickly.
+
+Public training programs aim to ease the transition of workers from declining to growing industries and to help disadvantaged groups escape poverty.
+
+Unemployment insurance is a government program that partially protects workers’ incomes when they become unemployed. 
+Offers workers partial protection against job losses. 
+Offers partial payment of former wages for a limited time to those who are laid off.
+Unemployment insurance increases the amount of search unemployment.
+It reduces the search efforts of the unemployed.
+It may improve the chances of workers being matched with the right jobs.
+
+
+### Structural unemployment
+
+Structural unemployment is the unemployment that results because the number of jobs available in some labor markets is insufficient to provide a job for everyone who wants one.
+Structural unemployment occurs when the wage is stuck at a level higher than the equilibrium wage.
+
+<!--Figure 4 Unemployment from a Wage Above the Equilibrium Level-->
+
+Structural unemployment exists when the wage is higher than the equilibrium wage.
+
+So, who keeps the wage that high? It could be:
+
+* The government (minimum-wage laws)
+* The workers (union activity)
+* The businesses themselves (efficiency wages)
+
+#### Structural unemployment: MINIMUM-WAGE LAWS
+
+When the minimum wage is set above the level that balances supply and demand, it creates unemployment.
+This does not mean that minimum-wage laws are necessarily bad, only that they cause unemployment. 
+<!--Figure 4 Unemployment from a Wage Above the Equilibrium Level-->
+
+In 2009, of those workers paid an hourly rate, 4% of men and 6% of women reported wages at or below the prevailing federal minimum wage.
+Reported wages can be below the minimum wage because (i) some workers are not covered by the law, (ii) enforcement is imperfect, and (iii) some workers round down the wages they report
+
+Minimum-wage workers tend to be young. 
+About half of all workers earning the minimum wage or less were under age 25, and about one-fourth were age 16-19.
+Among employed teenagers, 19% earned the minimum wage or less, compared with 3% or workers age 25 and older.
+
+Minimum-wage workers tend to be less educated.
+Among workers paid by the hour and age 16 and older, about 10% of those without a high school diploma earned the minimum wage or less, compared with about 4% of those with a high school diploma (but no college), and about 3% of those with a college degree.
+
+Minimum-wage workers are more likely to be working part time.
+Among part-time workers (those who usually work less than 35 hours per week), 11% earned the minimum wage or less, compared to 2% of full-time workers.
+
+The leisure and hospitality industry had the highest proportion of workers earning the minimum wage or less (21%).
+About half of all workers earning the minimum wage or less were in this industry.
+However, many of these workers earn tips in addition to their hourly wages.
+
+The proportion of workers earning the minimum wage or less has fallen since 1979.
+
+#### Structural unemployment: UNIONS AND COLLECTIVE BARGAINING
+
+A __labor union__ is a worker association that bargains with employers over wages and working conditions.  
+In the 1940s and 1950s, when labor unions were at their peak, about a third of the U.S. labor force was unionized.
+A labor union is a type of cartel attempting to exert its market power.
+
+The process by which labor unions and firms agree on the terms of employment is called __collective bargaining__.
+
+A __strike__ is organized when a union and a firm cannot reach an agreement.
+A strike refers to when the union organizes a withdrawal of labor from the firm.
+A successful strike makes some workers better off and other workers worse off.
+Workers in unions (insiders) reap the benefits of collective bargaining, while workers not in the union (outsiders) bear some of the costs.
+
+By acting as a cartel with ability to strike or otherwise impose high costs on employers, unions usually achieve above-equilibrium wages for their members.
+Union workers earn 10 to 20 percent more than nonunion workers.
+Their fringe benefits are typically worth two to four times as much.
+The financial advantage is even greater for workers with little formal education and training and for women, blacks, and Hispanic workers.
+More than 85 percent of union members have health insurance, compared with 57 percent of non-union workers.
+
+Are Unions Good or Bad for the Economy?
+Critics argue that unions cause the allocation of labor to be inefficient and inequitable.
+Wages above the competitive level reduce the quantity of labor demanded and cause unemployment.
+Some workers benefit at the expense of other workers.
+
+Advocates of unions contend that unions are a necessary antidote to the market power of firms that hire workers.
+They claim that unions are important for helping firms respond efficiently to workers’ concerns.
+
+#### Structural unemployment: THE THEORY OF EFFICIENCY WAGES
+
+Efficiency wages are above-equilibrium wages paid by firms in order to increase worker productivity. 
+The theory of efficiency wages states that firms operate more efficiently if wages are above the equilibrium level.
+
+A firm may prefer higher-than-equilibrium wages for the following reasons:
+
+* Worker Health: Better paid workers eat a better diet and thus are more productive.
+* Worker Turnover: A higher paid worker is less likely to look for another job.
+* Worker Effort: Higher wages motivate workers to put forward their best effort.
+* Worker Quality: Higher wages attract a better pool of workers to apply for jobs.
+
+##### Structural unemployment: THE THEORY OF EFFICIENCY WAGES: Henry Ford’s experiment
+
+Henry Ford introduced the assembly line technique in auto production, thereby ushering in a productivity revolution.
+In 1914, Ford began paying his workers \$5 per day, which was far above the norm.
+It is \$105 per day in 2007 money.
+
+Turnover and absenteeism fell. 
+Productivity rose so much that Ford’s costs fell.
+Henry Ford himself called the \$5-a-day wage “one of the finest cost-cutting moves we ever made”.

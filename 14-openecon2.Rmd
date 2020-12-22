@@ -1,0 +1,124 @@
+# A Macroeconomic Theory of the Open Economy {#openecon2}
+
+## Prerequisites
+
+* Net exports are always equal to net capital outflow: $NX=NCO$.
+* National saving is always equal to domestic investment plus net capital outflow: $S=I+NCO$.
+* The loanable funds theory of the real interest rate, for closed economies
+* National saving = private-sector saving + government saving
+* Private-sector saving = $Y-T-C$.
+* Government saving = $T-G$.
+* The real exchange rate is the price of domestic products relative to similar foreign products
+    * Calculated as $e\times P^*/P$.
+* Purchasing-power parity theory of the real exchange rate
+    * $e\times P^*/P=1$.
+
+## Loanable Funds Theory of the Real Interest Rate
+
+We have seen this accounting identity before: $S=I+NCO$.
+
+And we have seen before that this accounting identity makes sense: 
+A nation’s saving ($S$) must end up being loaned to domestic borrowers or foreign borrowers.
+The loans made to domestic borrowers will end up as investment spending mainly by domestic firms ($I$).
+And the loans made to foreigners will be net capital outflow ($NCO$).
+Therefore, $S=I+NCO$.
+
+Now, in a free-market economy, people and/or firms cannot be forced to do this or that.
+Therefore, _desired_ saving by households must be equal to _desired_ investment spending by firms and households plus _desired_ net capital outflow.
+
+How is this accomplished? How are these desired amounts brought into line?
+The theory of loanable funds says that:
+
+* There’s a market for loanable funds 
+* The supply of loanable funds = desired national saving ($S$).
+    * This supply depends on many factors, including the real interest rate.
+    * The supply of loanable funds increases when the real interest rate increases.
+* The demand for loanable funds = desired domestic investment spending ($I$) + desired net capital outflow ($NCO$).
+* This demand depends on many factors, including the real interest rate.
+    * The demand for loanable funds decreases when the real interest rate increases.
+* The real interest rate reaches an equilibrium level at which supply is equal to demand.
+* In this way, we get $S=I+NCO$ even when the variables are interpreted as the _desired_ amounts.
+
+<!--A bunch of diagrams-->
+
+We have seen this accounting identity before: $NX = NCO$.
+We have seen before that the _actual levels_ of net exports and net capital outflow must be equal: $NX = NCO$.
+
+But, in a free-market economy, people and/or firms cannot be forced to do this or that.
+Therefore, _desired_ net exports must be equal to _desired_ net capital outflow.
+How is this accomplished? How are these desired amounts brought into line?
+
+## The Market for Foreign-Currency Exchange
+
+Just as we may imagine a market in which ice cream is exchanged for currency, or a market in which Amazon shares are exchanged for currency, we may imagine a market in which different currencies are exchanged for each other.
+
+That’s the market for foreign-currency exchange.
+
+We assume that in this market there is a supply and a demand for every currency.
+We assume that this market’s price reaches the equilibrium level at which supply and demand are equal.
+
+The supply of the domestic currency = desired net capital outflow ($NCO$).
+
+This supply depends on many factors, but not on the real exchange rate.
+Recall that the determination of desired net capital outflow was determined in the market for loanable funds before I even mentioned the real exchange rate.
+
+The demand for the domestic currency = desired net exports ($NX$).
+
+This demand depends on many factors, including the real exchange rate.
+The quantity of the domestic currency demanded _decreases_ when the real exchange rate _increases_.
+
+The real exchange rate reaches an equilibrium level at which supply is equal to demand.
+In this way, we get $NX=NCO$ even when the variables are interpreted as the _desired_ amounts.
+
+<!--A bunch of diagrams-->
+
+## Simultaneous Equilibrium in Two Markets
+
+We need to join together the two markets that we’ve been discussing---the loanable-funds market and the foreign-currency exchange market---to get to a coherent understanding of long-run open-economy macroeconomics.
+
+## Effects of Policy Changes and Unforeseen Events
+
+The point of building a macroeconomic theory of an open economy is to be able to say something that is not totally idiotic about the likely consequences of some policy change or unforeseen event.
+
+We will now see what our theory says about the long-run effects of:
+
+* A tax cut and/or an increase in government spending
+* An import tariff or an import quota
+* Political instability and capital flight
+
+### A Tax Cut and/or an Increase in Government Spending
+
+Recall that:
+
+* The supply of loanable funds = national saving ($S$).
+* National saving = private-sector saving + government saving.
+* Private-sector saving = $Y-T-C$.
+* Government saving = $T-G$.
+
+Therefore, a tax cut and/or an increase in government spending implies that $T – G$ decreases. (That is, government saving decreases.)
+Therefore, national saving ($S$) decreases.
+This shifts the supply of loanable funds to the left.
+
+### An Import Tariff or an Import Quota
+
+An import tariff is a tax on imported goods.
+An import quota puts a limit on the quantity of imports.
+Either way, imports will decrease, assuming all other factors that affect imports (such as the real exchange rate) are unchanged.
+Therefore, net exports (NX = exports – imports) will increase.
+
+As a result, the demand for the domestic currency in the market for foreign-currency exchange will shift to the right.
+
+As the curves for $S$, $I$, and $NCO$ are unaffected, the market for loanable funds will be unaffected.
+
+### Political Instability and Capital Flight
+
+An increase in political instability is likely to cause an increase in net capital outflow (also called capital flight, when the outflow is large), assuming all the other factors that affect $NCO$ are unchanged.
+
+This will shift the $NCO$ curve to the right.
+
+As the two main sources of the demand for loanable funds are investment ($I$) and net capital outflow ($NCO$), the demand for loanable funds will shift right.
+
+### Summary of Predictions
+
+### The Unusual Case of Purchasing-Power Parity
+

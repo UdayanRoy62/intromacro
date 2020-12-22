@@ -1,0 +1,331 @@
+# Money Growth and Inflation {#inflation}
+
+## Things You Need to Know to Understand This Chapter:
+
+* The measurement of the overall price level (CPI) and of inflation (Ch. 6)
+* The theory of long-run GDP (Ch. 7)
+* The loanable funds theory of the real interest rate (Ch. 8)
+* Chapter on “The Monetary System” (Ch. 11), especially:
+* The economists’ definition of money
+* The measurement of the quantity of money
+* The functions of money
+* The control of the quantity of money by a country’s central bank
+
+## Introduction
+
+In chapter 11, we saw how money is defined and measured.
+In chapter 6 we saw how the price level and its rate of inflation are defined and measured.
+In this chapter, we will see that the quantity of money determines the price level.
+The central idea of this chapter is the __quantity theory of money__. It explains the long-run determinants of the price level and the inflation rate.
+More specifically, in this chapter, we will see that:
+
+* The quantity of money in an economy determines its price level, and
+* The growth rate of the quantity of money determines the growth rate of the price level
+    * Recall that the growth rate of the price level is also called the rate of inflation
+
+Over the past 70 years, prices have risen on average about 4 percent per year in the U.S.
+_Deflation_, meaning decreasing average prices, occurred in the U.S. in the nineteenth century.
+The price level was 23% lower in 1896 than in 1880.
+In the 1970s prices rose by 7 percent per year.  
+During the 1990s, prices rose at an average rate of 2 percent per year.
+
+_Hyperinflation_ refers to very high rates of inflation, usually more than 50 percent per month.
+At such rates, prices increase more than 100-fold in one year.
+
+[Germany experienced hyperinflation](https://en.wikipedia.org/wiki/Hyperinflation_in_the_Weimar_Republic) in the 1920s.
+The price of a newspaper rose from 0.30 mark in January 1921 to 70,000,000 marks in November 1923 (that is, in less than three years).
+This does not mean that Germans suddenly felt that newspapers were incredibly wonderful things!
+Instead, what this means is that money became less valuable to Germans.
+
+We see from this example that price increases have more to do with the value of money than with the value of goods.
+Therefore, if we understand the value of money, we will understand the prices of goods
+
+## The Classical Theory of Inflation
+
+This is the mainstream theory of the overall price level and the rate of inflation in the long run. It is called “classical” because it was developed by some of the earlies economic thinkers.
+
+When the overall price level rises, the price of money falls.
+Suppose the price of a gallon of ice-cream is \$5. 
+Then, the price of a dollar is 1/5 gallons of ice-cream.
+In general, let $P$ denote the price level of goods and services. 
+So, $P$ could be the Consumer Price Index or the GDP Deflator.
+Then, $1/P$ is the value of money measured in units of goods and services.
+This is also the price of money and the purchasing power of money.
+So, when the overall price level rises, the value of money falls.
+
+### THE CLASSICAL THEORY OF INFLATION: Money Supply, Money Demand, and Monetary Equilibrium
+
+It is obvious that the quantity of money determined by the central bank must end up equal to the quantity of money held by the people as currency and checkable bank deposits.
+But in a free economy, people cannot be forced.
+Therefore, the quantity of money _desired_ by the central bank must be equal to the quantity of money _desired_ by the people as currency and checkable bank deposits.
+That is, _the money supply must equal the money demand_.
+
+What economic mechanism makes these two separate things equal?
+
+The classical theory of inflation assumes that the price or value of money ($1/P$) automatically reaches the level at which money supply is equal to money demand.
+
+Money supply is a policy variable that is controlled by the central bank.
+Through instruments such as open-market operations, the central bank controls the quantity of money supplied.
+In the US, the central bank is called the Fed.
+
+Money demand is the quantity of money that people wish to hold as currency and checkable bank deposits.
+
+Recall that money has three main functions: medium of exchange, unit of account, and store of value.
+The classical theory assumes that in the long run people wish to hold money because it is a medium of exchange and thereby makes shopping convenient.
+(The unit of account function doesn’t affect people much and there are better stores of value than money that pay higher interest rates.)
+
+Although money demand has several determinants, including interest rates earned from the ownership of non-money assets, the most important factor in the long run is the average level of prices in the economy.
+People hold money because it is the medium of exchange.
+The amount of money people choose to hold for shopping depends on the prices of goods and services. 
+The higher prices are, the more money the typical transaction requires. Therefore, the higher prices are, the higher the amount of money people will choose to hold in their wallets and in their checking accounts.
+
+In the long run, the overall level of prices ($P$) adjusts to the level at which the demand for money equals the supply.
+This is _monetary equilibrium_.
+
+<!--Figure 1 Money Supply, Money Demand, and the Equilibrium Price Level-->
+### THE CLASSICAL THEORY OF INFLATION: The Effects of Monetary Injection
+
+The classical theory of inflation is also called the _quantity theory of money_.
+The quantity theory of money says that:
+The quantity of money available in the economy determines the value of money.
+As the value of money is $1/P$, when the value of money is determined, so is $P$.
+The primary cause of inflation is the growth in the quantity of money.
+
+Video: [Causes of Inflation](https://youtu.be/gi7jx5IJtik).
+
+Imagine a lot of newly-printed cash is dropped from a helicopter.
+People could try to spend the extra cash they pick up.
+They could put the cash in their bank accounts. 
+But even in this case, the banks would lend the money to borrowers and stimulate even more spending.
+But there isn’t any extra stuff to buy because productive capacity has not increased as a result of the money drop. 
+Therefore, the only consequence is that prices will go up.
+This is the key idea of the Quantity Theory of Money.
+
+> “Inflation is always and everywhere a monetary phenomenon.”
+Milton Friedman (1912 -- 2006).
+
+### THE CLASSICAL THEORY OF INFLATION: The Classical Dichotomy and Monetary Neutrality
+
+_Nominal variables_ are variables measured in monetary units.
+_Real variables_ are variables measured in physical units.
+
+According to the [classical dichotomy](https://en.wikipedia.org/wiki/Classical_dichotomy), different forces influence real and nominal variables.
+
+According to [David Hume](https://en.wikipedia.org/wiki/David_Hume#Contributions_to_economic_thought) and others, real economic variables are not affected by changes in the money supply.
+Changes in the money supply affect nominal variables but not real variables.
+This feature of the classical theory of inflation is called _monetary neutrality_.
+[Monetary neutrality](https://en.wikipedia.org/wiki/Neutrality_of_money) is thought to prevail in the long run.
+
+That is why we could study real variables, such as GDP, saving, investment, the real interest rate, the unemployment rate, etc., before we began studying money.
+
+### THE CLASSICAL THEORY OF INFLATION: Velocity and the Quantity Equation
+
+The classical theory of inflation or the quantity theory of money can also be expressed algebraically as _the quantity equation_.
+
+The _velocity of money_ is the speed at which the typical dollar bill travels around the economy from wallet to wallet in, say, a year. 
+Therefore, the velocity of money, $V$, is the number of times per year that a typical dollar bill is used to buy goods and services. 
+Therefore, $V$ is the dollar value of the goods and services purchased with a dollar bill in a year.
+Therefore, if the economy’s quantity of money is $M$ dollars, then the dollar value of the goods and services purchased with $M$ dollars in a year must be $M × V$ dollars.
+Therefore, $$M × V = \textrm{Nominal GDP}.$$
+
+Recall that the overall price level, $P$, can be interpreted as the GDP deflator.
+That is, $$P = \textrm{GDP deflator} = \textrm{Nominal GDP} /\textrm{Real GDP}.$$
+Therefore, $$\textrm{GDP deflator} × \textrm{Real GDP} = \textrm{Nominal GDP}.$$
+Therefore, $$P × Y = \textrm{Nominal GDP}.$$
+
+As both $M × V$ and $P × Y$ are equal to the country’s nominal GDP, they must be equal to each other:
+\begin{equation}
+M × V = P × Y.
+  (\#eq:quantity-equation)
+\end{equation}
+
+Equation \@ref(eq:quantity-equation) is _the quantity equation_.
+
+Video: [Quantity Theory of Money](https://youtu.be/q59tZKP0HME), Marginal Revolution University, YouTube, January 17, 2017.
+
+The quantity equation ($M × V = P × Y$) implies that the velocity of money can be calculated as the ratio of Nominal GDP to the Quantity of Money:
+\begin{equation}
+V = \frac{P×Y}{M} = \frac{\textrm{Nominal GDP}}{\textrm{Quantity of Money}}.
+  (\#eq:velocity-equation)
+\end{equation}
+Luckily, it is easy to find data on Nominal GDP and the Quantity of Money. So, we can observe the ups and downs of the velocity of money in actual economies.
+
+<!--Figure 3: Nominal GDP, the Quantity of Money, and the Velocity of Money-->
+
+It turns out that the velocity of money is relatively stable over time.
+Also, as we saw in Chapter 7 (Production and Output), the quantity of money does not affect real GDP. 
+Therefore, $M × V = P × Y$ implies that any change in $M$ causes an proportionate change in $P$. Therefore, rapid inflation is caused by rapid increases in the quantity of money.
+
+Video: [Causes of Inflation](https://youtu.be/gi7jx5IJtik), Marginal Revolution University, YouTube, January 24, 2018
+
+### CASE STUDY: Money and Prices during Four Hyperinflations
+
+_Hyperinflation_ is inflation that exceeds 50 percent per month. 
+Hyperinflation occurs in some countries because the government prints too much money to pay for its spending.
+<!--Figure 4 Money and Prices During Four Hyperinflations-->
+
+_Q_: Why do governments print so much money? 
+
+_A_: To pay for government spending when neither taxation nor borrowing are vailable options.
+
+When the government raises revenue by printing money, it is said to impose an _inflation tax_.
+An inflation tax is like a tax on everyone who holds money.
+The inflation ends when the government institutes fiscal reforms---such as cuts in government spending---that ends the need to print money.
+
+#### Hyperinflation in Zimbabwe
+
+During the 2000s, the Zimbabwe government was unable to cut spending enough or raise tax revenues enough to close its budget deficit.
+And it could not borrow, as nobody would lend it money.
+So, it printed money to cover its budget deficit.
+The result was rampant inflation.
+
+Before the [hyperinflation in Zimbabwe](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe) began, the Zimbabwe dollar was worth a bit more than the US dollar.
+In January 2008, however, the Reserve Bank of Zimbabwe, the central bank, issued a note worth 10 million Zimbabwe dollars, which was then equivalent to about four (4) US dollars.
+A year later, a note worth 10 trillion Zimbabwe dollars, equivalent to three (3) US dollars, was issued.
+<!--Hyperinflation in Zimbabwe-->
+
+The Zimbabwe hyperinflation ended in 2009 when the Reserve Bank of Zimbabwe stopped printing Zimbabwe dollars and the nation began using foreign currencies such as the US dollar and the South African rand.
+
+Video: [Zimbabwe and Hyperinflation](https://youtu.be/78-BlZXm7wA).
+
+Video: [Why Governments Create Inflation](https://youtu.be/E6A_WpUY2LI).
+
+### THE CLASSICAL THEORY OF INFLATION: The Fisher Effect
+
+Recall that:
+$\textrm{Real interest rate} = \textrm{nominal interest rate} – \textrm{inflation}$. Therefore,
+$\textrm{Real interest rate} + \textrm{inflation} = \textrm{nominal interest rate}$.
+
+In this chapter, we have seen that an increase in inflation is caused by an increase in money growth.
+In an earlier chapter, we saw that an increase in money growth has no effect on the real interest rate, which is determined in the market for loanable funds.
+Therefore, _any change in inflation must be accompanied by an equal change in the nominal interest rate_.
+This is called the _Fisher effect_, after the economist [Irving Fisher](https://en.wikipedia.org/wiki/Irving_Fisher).
+
+<!--Figure 5: The Nominal Interest Rate and the Inflation Rate-->
+
+## The Costs of Inflation
+
+These include:
+
+* Shoeleather costs, 
+* menu costs, 
+* relative price variability and misallocation of resources  
+* inflation-induced tax distortions  
+* confusion and inconvenience  
+* arbitrary redistribution of wealth 
+
+### THE COSTS OF INFLATION: A Common Fallacy
+
+Inflation does not in itself reduce people’s real purchasing power.
+Our standard of living depends on GDP, and inflation does not hurt our GDP.
+Recall from Chapter 7 (Production and Growth) that GDP is determined by other factors: technology, physical and human capital, natural resources, etc.
+The printing of money causes prices to rise but has no effect on the determinants of real GDP.
+Recall that monetary neutrality prevails in the long run.
+
+However, there are other, more subtle costs of inflation.
+
+Costs of Inflation
+Video: [Costs of Inflation: Price Confusion and Money Illusion](https://youtu.be/Q_C3whhH2gc).
+
+Video: [Financial Intermediation Failure](https://youtu.be/MfM1utsEEZA).
+
+### THE COSTS OF INFLATION: Shoeleather Costs
+
+Shoeleather costs are the resources wasted when inflation forces people to live with minimal reserves of money.
+Inflation reduces the purchasing power of money. So people have an incentive to keep their wealth in non-money forms, such as stocks, bonds, real estate, gold, etc. 
+
+### THE COSTS OF INFLATION: Shoeleather Costs
+
+Living with minimal cash reserves requires more frequent trips to a financial institution to convert interest-bearing non-money assets into cash.
+These extra trips to a financial institution are inconvenient and take time away from productive activities.
+
+### THE COSTS OF INFLATION: Menu Costs
+
+Menu costs are the costs of adjusting prices
+Printing new menus
+Marketing costs of informing customers of the price changes
+During inflationary times, it is necessary to frequently update price lists and other posted prices.
+This is a resource-consuming process that takes away from other productive activities.
+
+### THE COSTS OF INFLATION: Relative-Price Variability and the Misallocation of Resources
+
+Inflation distorts relative prices. 
+This distortion is caused by:
+
+* Menu costs, and
+* Uncoordinated price changes
+
+Decisions of buyers and sellers are distorted, and markets are less able to allocate resources to their best use.
+
+### THE COSTS OF INFLATION: Relative-Price Variability and the Misallocation of Resources
+
+Changes in the relative price of, say, ice cream to apples are desirable when caused by 
+Demand-related factors (a rise in temperature makes people desire ice cream), and 
+Supply-related factors (a drought that damages the production of apples)
+
+Changes in relative prices that are caused by inflation affect the choices of buyers and sellers for no economically useful reasons
+
+### THE COSTS OF INFLATION: Inflation-Induced Tax Distortion
+
+Inflation exaggerates the size of capital gains and increases the tax burden on this type of income. 
+This reduces the incentive to save for the future, and has a negative long-run effect on the economy.
+The income tax system treats all of the nominal interest earned on savings as taxable income, even though part of the nominal interest rate merely compensates for inflation. 
+Consequently, when inflation increases the after-tax real interest rate falls, making saving less attractive.
+
+<!--Table 1 How Inflation Raises the Tax Burden on Saving-->
+
+### THE COSTS OF INFLATION: Confusion and Inconvenience
+
+When the Fed increases the money supply and creates inflation, it reduces the purchasing power of a dollar.
+Inflation causes the purchasing power of a dollar to be different at different times.
+Therefore, with rising prices, it is more difficult to compare revenues, costs, and profits over time in inflation-adjusted (or, real) units.
+
+### THE COSTS OF INFLATION: A Special Cost of Unexpected Inflation: Arbitrary Redistribution of Wealth
+
+When there’s unexpected inflation, lenders lose and borrowers gain.
+When there’s unexpected deflation, lenders gain and borrowers lose.
+These redistributions occur because many loans in the economy are specified in terms of the unit of account: money.
+Unexpected inflation redistributes wealth among the population in a way that has nothing to do with either merit or need.
+
+#### THE COSTS OF INFLATION: How to protect your savings from inflation
+
+We just saw that during unexpected inflation, lenders lose and borrowers gain, and during unexpected deflation, lenders gain and borrowers lose. But [inflation-indexed bonds](https://en.wikipedia.org/wiki/Inflation-indexed_bond) are a way to protect yourself from this.
+You can lend money to the US government without taking any inflation risk!
+The U.S. Treasury sells inflation-protected bonds. 
+For these bonds, both interest payments and the principal that is repaid when the bond matures are adjusted for inflation.
+So, buyers of these bonds are protected from inflation.
+These bonds are of two types:
+
+* [Treasury Inflation-Protected Securities](https://en.wikipedia.org/wiki/Treasury_security#TIPS)
+* [Series I Savings bonds](https://en.wikipedia.org/wiki/Treasury_security#Series_I_Savings_Bonds)
+
+These bonds can be bought directly from www.treasurydirect.gov.
+Inflation-indexed bonds are also sold by foreign governments and by private corporations
+
+
+### THE COSTS OF INFLATION: If Inflation is Bad, is Deflation Good?
+
+Deflation is negative inflation (or falling prices).
+
+The following costs of inflation, are also true for deflation:
+
+* Menu costs
+* Relative-price variability and the misallocation of resources
+* Confusion and inconvenience
+* Arbitrary redistributions of wealth (unexpected deflation)
+
+However, the following costs of inflation are smaller in the case of deflation:
+
+* Shoeleather costs
+* Inflation-induced tax distortions
+
+For this reason, [Milton Friedman](https://en.wikipedia.org/wiki/Milton_Friedman) argued that central banks should aim for mild deflation in the long run [Friedman Rule](https://en.wikipedia.org/wiki/Friedman_rule).
+
+Recall that $\textrm{nominal interest rate} = \textrm{real interest rate} + \textrm{inflation}$.
+The Friedman Rule argues that, to keep shoeleather costs low, we should set nominal interest rate = 0. 
+Therefore, $\textrm{real interest rate} + \textrm{inflation}=0$.
+Therefore, $\textrm{inflation}=-\textrm{real interest rate}$, which is usually _negative_.
+So, according to the Friedman Rule, _to set the nominal interest rate at zero, we should aim for mild deflation_.
+
+The Friedman Rule’s support of deflation applies in the long run. 
+In the short-run, deflation may be the symptom of a sick economy.
