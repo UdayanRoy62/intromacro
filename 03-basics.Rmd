@@ -1,0 +1,40 @@
+# An Outline of the Course {#outline}
+
+Let's begin with some introductory remarks on:
+
+* The topics I will discuss in this course
+* The role of theory and data in the study of these topics
+
+## Economics, Microeconomics, and Macroeconomics
+
+__Economics__ is the study of human responses to scarcity. In economics, *scarcity* simply means a situation in which people don't always have everything they want. In a situation of scarcity people wage war on scarcity by doing all sorts of things they might otherwise not want to do: doing a paid job, starting or running a business of their own, enrolling in an arduous educational program, etc. Economics studies these human responses to scarcity and the various consequences of those responses.
+
+Understandably, economics covers a vast area. It is therefore convenient to split economics into two areas: microeconomics and macroeconomics.
+
+__Microeconomics__ is the study of how individual households and firms make decisions and how they interact with one another in markets.
+
+__Macroeconomics__ is the study of the economy as a whole.
+Its goal is to explain the economic changes that affect many households, firms, and markets at once.
+
+## Macroeconomics
+
+This course focuses on macroeconomics. Macroeconomics focuses on questions such as these:
+
+* Why is average income high in some countries and low in others? 
+* Why do prices rise rapidly in some time periods while they are more stable in others? 
+* Why do production and employment expand in some years and contract in others? 
+* How do government policies affect macroeconomic variables?
+* How does globalization -- especially cross-country trade in goods and services and cross-country lending and borrowing -- affect the macroeconomic performance of a country?
+* How does globalization affect a government's control over a country's macroeconomic performance?
+
+Macroeconomics focuses on measurements of the economic features of entire groups of people -- usually entire countries -- and tries to use those measurements to deduce effective ways of running our societies. 
+
+## The Role of Data
+
+To see whether an economy faces a macroeconomic problem, you first need data.
+
+* Data help policy makers see what problems, if any, need to be addressed
+* Data help macroeconomists identify the theories that make correct predictions and the theories that make incorrect predictions
+* Data often reveal interesting puzzles that macroeconomic theories need to solve
+
+

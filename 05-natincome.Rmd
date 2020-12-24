@@ -1,34 +1,10 @@
 # Measuring a Nation’s Income {#natincome}
 
-This chapter marks the beginning of our look at macroeconomics proper.
+This chapter begins our look at macroeconomics proper. Macroeconomics focuses on measurements of the economic features of entire groups of people -- usually entire countries -- and tries to use those measurements to deduce effective ways of running our societies. It makes sense, therefore, to begin by discussing some of the most important macroeconomic variables.
+
+And there is no more important a macroeconomic variable than national income.
 
 ## Introduction
-
-Let's begin with some introductory remarks on:
-
-* The topics I will discuss in this course
-* The role of theory and data in studying these topics
-
-### Economics, Microeconomics, and Macroeconomics
-
-__Economics__ is the study of human responses to scarcity. It is convenient to split a topic that vast into two areas: microeconomics and macroeconomics. This course focuses on macroeocnomics.
-__Microeconomics__ is the study of how individual households and firms make decisions and how they interact with one another in markets.
-__Macroeconomics__ is the study of the economy as a whole.
-Its goal is to explain the economic changes that affect many households, firms, and markets at once.
-
-Macroeconomics answers questions such as these:
-
-* Why is average income high in some countries and low in others? 
-* Why do prices rise rapidly in some time periods while they are more stable in others? 
-* Why do production and employment expand in some years and contract in others? 
-
-### The Role of Data
-
-To see whether an economy faces a problem, you first need data.
-
-* Data help policy makers see what problems, if any, need to be addressed
-* Data help macroeconomists identify the theories that make correct predictions and the theories that make incorrect predictions
-* Data often reveal interesting puzzles that macroeconomic theories need to solve
 
 ## Gross Domestic Product
 
@@ -36,26 +12,32 @@ To see whether an economy faces a problem, you first need data.
 
 We need to measure the health of an economy. When judging whether an economy is doing well or poorly, it is natural to look at the total income that the people in the economy are earning.
 
-We can temporarily boost our standard of living by borrowing from others. But we can’t keep borrowing forever. This is why a nation’s standard of living depends heavily on its own total income.
+Total income is not always tied closely to economic well-being. For example, the people of a country can temporarily boost their standard of living by borrowing from others. But we can’t keep borrowing forever. This is why a nation’s standard of living depends heavily on its own total income.
 
-### Income = Expenditure
+### Income = Expenditure = Output
 
-We could measure either total income or total expenditure.
-We would get the same number either way.
+We could measure either total income or total expenditure or total output. We would get the same number in all cases.
+
 For an economy as a whole, income must equal expenditure because:
 
 * Every transaction has a buyer and a seller.
 * Every dollar of spending by some buyer is a dollar of income for some seller. 
 
-But what about _saving_?
-Q: People typically save part of what they earn. How then is income equal to expenditure for the economy as a whole?
+Moreover, total expenditure is also the monetary value of the output that is produced and sold.
+
+This equality of income and expenditure and output has practical consequences. It gives government statisticians more choices on how to measure total income. 
+
+#### Saving
+
+Q: But what about _saving_? People typically save part of what they earn. How then is income equal to expenditure for the economy as a whole?
+
 A: What people save tends to get loaned to businesses who then spend the money they borrowed. So, for the economy as a whole, income must still equal expenditure.
 
-But what about _international trade_? We buy foreign-made goods and foreigners buy goods made by us.
+#### Spending on imports
 
-Q: In that case, how can our total income be equal to our total expenditure?
+Q: But what about _international trade_? We buy foreign-made goods and foreigners buy goods made by us. In that case, how can our total income be equal to our total expenditure?
 
-A: This is correct. It is better to say that total income of domestic residents equals the total expenditure on domestically produced goods.
+A: This is correct. So, it is better to say that total income of domestic residents equals the total expenditure on domestically produced goods and services.
 
 ### Gross Domestic Product: Definition
 
@@ -63,11 +45,21 @@ Gross Domestic Product (GDP) is one measure of a country’s total income.
 There are other measures of total income, but GDP is the most popular measure.
 
 __GDP is the total market value of all final goods and services produced within a country in a given period of time.__
-For example, the GDP of the United States in 2017 was \$19,390.6 billion, according to the U.S. Department of Commerce. 
-Given a mid-year population of 325,983,000 (est.) the per capita (or, per human) GDP was \$59,484.
 
-__GDP is also the total expenditure on all final goods and services produced within a country in a given period of time.__
-__GDP is also the total income of all domestically located resources.__
+This is not some abstract theoretical concept. We can put a number on it. For example, the GDP of the United States in 2019 was \$21,433.226 billion, according to the U.S. Department of Commerce. (For more data, see [this](https://fred.stlouisfed.org/series/GDPA).)
+
+#### Gross Domestic Product per capita
+
+The estimated population of the United States in 2019 was 328,239,523. (For more data, see [this](https://fred.stlouisfed.org/series/B230RC0A052NBEA).)
+
+Therefore, the estimated *per capita (or, per human) GDP* was \$65,240. (For more data, see [this](https://fred.stlouisfed.org/series/A939RC0A052NBEA).)
+
+#### GDP is output, expenditure, and income
+
+Note that the definition of GDP makes it look like a measure of total *output*. But the idea that output = expenditure = income makes GDP a measure of expenditure and income as well.
+
+* __GDP is also the total expenditure on all final goods and services produced within a country in a given period of time.__
+* __GDP is also the total income of all domestically located resources.__
 
 #### GDP is the Market Value … 
 
@@ -77,15 +69,16 @@ As our goal is to measure total income, it therefore makes sense to measure the 
 
 #### … Of All Final Goods …
 
-__Final goods are those goods sold to their final users.__
+We need to pause for a second over the word *final*. Couldn't we have left that word out of the definition of GDP?
 
-Here's an example of a final good: A pencil is a final good because, once produced, it is ready for use by its final users. 
+__Final goods are those goods that are sold to their final users.__
 
-The wood, the graphite, and other materials that disappeared in the pencil are _not_ final goods.
-Their market value is already counted when the market value of the pencil is counted.
-So, counting them in GDP would count them twice.
+A pencil is a final good because, once produced, it is ready for purchase and use by its final users. The wood, the graphite, and other materials that disappeared in the pencil are _not_ final goods. They will need to be transformed into a pencil before they can be useful.
 
-GDP records only the value of final goods, not intermediate goods.
+GDP counts the market value of the pencil but does not separately count the wood, the graphite, and the other produced goods that make up the pencil. After all, their market value is already counted when the market value of the pencil is counted. So, counting the wood and the graphite separately in GDP would count them *twice*.
+
+GDP measures the value of final goods, not intermediate goods.
+
 __Intermediate goods are those goods that disappear inside other goods that are produced for sale. Final goods are goods that are not intermediate goods. These are goods sold to their final users.__ 
 GDP is defined so that the value of intermediate goods is counted only once, not twice or thrice.
 
@@ -114,29 +107,41 @@ Therefore, the total income of this country is \$75,000.
 This is accurately measured by the value of the ice-cream (the final good) alone.
 Had we also counted milk, the intermediate good, we would have calculated total income to be \$125,000, which would have been an exaggeration.
 
+One more example ...
+
+If nobody buys sandwiches, the total expenditure on sandwiches would be zero. Therefore, the value of the total output of sandwiches would be zero. And the income earned from the making of sandwiches would be zero.
+
+On the other hand, if people buy a million dollars worth of sandwiches, the total expenditure on sandwiches would be a million dollars. Therefore, the value of the total output of sandwiches would be a million dollars. And note that the million dollars spent by the sandwich buyers could not simply vanish into thin air; it would have to end up in the pockets of all the people whose work contributed to the making of the sandwiches: the workers in the deli who assembled the sandwiches for their hungry customers; the bakers who baked the bread; the farmers who grew the wheat, the lettuce, and the tomatoes; the dairy farmers who made the cheese; the workers in meat-packing plants who butchered the chicken; the poultry farmers who raised the chicken; and so on and on. The million dollars spent by the consumers of sandwiches would end up as income of all the people who contributed to the making of the sandwiches.
+
+So, just keeping track of all spending on *final* goods and services -- which is exactly what the GDP number does -- gets us measures of three things: output, income, and expenditure.
+
 #### … and Services …
 
-GDP includes both tangible goods (food, clothing, cars) and intangible services (haircuts, housecleaning, doctor visits, legal consultations). 
+GDP includes both tangible goods (food, clothing, cars) and intangible services (haircuts, housecleaning, doctor visits, legal advice). 
 
-Trade in assets does not affect GDP. 
-Such trade does not require new productive activity, it is merely the transfer of ownership of an asset from one person to another. Neither participant is paying the other for a good or service. They are simply exchanging property.
+Warning: While the services of your accountant who spends her time trading stocks for you are counted in GDP, the trade in assets itself does not affect GDP. Why not? Such trade is merely the transfer of ownership of an asset from one person to another. Neither participant is paying the other for a good or service. They are simply exchanging property. Nothing new is being produced. So, GDP ignores the change in ownership.
+
+When you buy a new car, its market value is included in GDP; after all, GDP wants to count the value of every productive activity such as the production of a car. But when you buy a second-hand car, GDP ignores the purchase; no new production took place and so GDP isn't interested.
 
 #### … Produced Within a Country …
 
 GDP measures the value of all production within the geographic boundaries of a country.
 The _citizenship_ of the owners of the resources used in production is _not_ the key issue.
-Production by foreigners living in a country is counted in that country’s GDP.
-Production by a country’s citizens working in _other_ countries is _not_ counted.
+Production by *foreigners* living in Country A is counted in Country A’s GDP.
+Production by a Country A’s citizens working in Country B is counted in Country B's GDP.
 
 #### … In a given period of time
 
 GDP measures the value of production that takes place within a specific interval of time, usually a year or a quarter (three months). 
-GDP measures the value of goods and services _currently_ produced. GDP ignores current transactions that involve goods that were produced in the past.
-Current transactions involving used cars or buildings that were constructed in the past are not counted in current GDP.
 
-### What’s not counted in GDP?
-GDP includes the market value of all items produced in the economy and sold legally in markets.
-It excludes items produced and sold illicitly, such as illegal drugs.
+GDP in period $T$ measures the value of goods and services produced in period $T$. GDP does not care whether those goods were sold in period $T$ or in period $T+1$ or in some later period. The market value of goods produced in period $T$ but not sold in period $T$ are called *inventory accumulations*.
+
+GDP ignores current transactions that involve goods that were produced in the past. Current transactions involving used cars or buildings that were constructed in the past are not counted in current GDP either (as was discussed earlier).
+
+### What productive activity is not counted in GDP?
+
+GDP includes the market value of all items produced in the economy and sold *legally* in markets. It excludes items produced and sold illicitly, such as illegal drugs.
+
 GDP excludes most items that are produced and consumed at home and that never enter the marketplace.
 
 For more on Gross Domestic Product, check out [this video](https://youtu.be/mjJmo5mN5yA).
@@ -152,7 +157,7 @@ GDP comes in two flavors:
 * Nominal GDP (also called GDP at current prices), and
 * Real GDP (also called GDP at constant prices)
 
-So, when you see or hear a discussion of GDP, be sure to ask, “Nominal or real?”
+So, when you see or hear a discussion of GDP, be sure to ask, “Which GDP are you talking about? Nominal or real?”
 
 ### Gross Domestic Product, Nominal
 
@@ -230,7 +235,7 @@ Note that Equation \@ref(eq:gdp-deflator) above can easily be re-written as foll
 
 Therefore, if you know the numbers for Nominal GDP and the GDP Deflator, you can calculate  Real GDP.
 
-### The Growth Rate of GDP
+## The Growth Rate of GDP
 
 Consider the value of a variable at two dates. The growth rate of the variable over the intervening period is the increase in the value of the variable from the earlier date to the later date divided by the value of the variable at the earlier date. Multiply by 100 to express the growth rate as a percentage, if you wish.
 
@@ -355,9 +360,9 @@ For more on the basic facts of economic prosperity across countris, see [this vi
 
 ## Is GDP a good measure of economic well-being? {#gdp-and-wellbeing}
 
-No, but it is the best one-number measure we have.
+No, but real GDP per capita is the best one-number measure of well-being that we have.
 
-There’s a lot about well-being that’s missing in GDP: economic inequality, work done in home, volunteer work, illegal work, leisure, environment, disasters, …
+There’s a lot about well-being that’s missing in GDP: economic inequality, work done at home, volunteer work, illegal work, leisure, environment, disasters, …
 
 ### Income Inequality
 
@@ -403,10 +408,10 @@ GDP per person tells us the income and expenditure of the average person in the 
 
 For more on the link between Real GDP Per Capita and the Standard of Living, see [this video](https://youtu.be/Z0qHA93oOSc).
 
-<!--Historical note: The collection of data for national income accounting in the US was pioneered by Simon Kuznets:
+## Historical note
 
+The collection of data for national income accounting in the US was pioneered by Simon Kuznets (1901 -- 1985):
 
 ```{r kuznets, fig.cap='Simon Kuznets',fig.align='center', echo=FALSE}
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/6/6c/Simon_Kuznets_1971b.jpg")
 ```
--->
