@@ -37,8 +37,6 @@ eq:real-exchange-rate
 eq:aggregate-demand
 eq:SRAS
 eq:gov-spending-multiplier
-preface
-the-pool-of-tears
 outline
 economics-microeconomics-and-macroeconomics
 macroeconomics
@@ -152,7 +150,6 @@ policy-1-saving-incentives
 policy-2-investment-incentives
 policy-3-government-budget-deficits-and-surpluses
 should-a-nations-government-try-to-change-its-levels-of-saving-and-investment
-finance
 unemployment
 introduction-2
 the-data-on-unemployment

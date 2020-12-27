@@ -1,0 +1,5 @@
+# (PART) Long-Run Macroeconomics of Nominal Variables {-} 
+
+# The Nominal World {#long-nominal .unnumbered}
+
+The next few chapters consider the long-run behavior of nominal macroeconomic variables.

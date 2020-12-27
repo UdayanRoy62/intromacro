@@ -6,3 +6,29 @@ view: https://github.com/UdayanRoy62/intromacro/blob/master/%s
 language:
   ui:
     chapter_name: "Chapter "
+
+rmd_files: [
+  "index.Rmd",
+  "basics.Rmd",
+  
+  "data.Rmd",
+  "natincome.Rmd",
+  "costofliving.Rmd",
+
+  "long-real.Rmd",
+  "growth.Rmd",
+  "finsys.Rmd",
+  "unemployment.Rmd",
+  
+  "long-nominal.Rmd",
+  "monsys.Rmd",
+  "inflation.Rmd",
+  
+  "long-global.Rmd",
+  "openecon.Rmd",
+  "openecon2.Rmd",
+  
+  "short-run.Rmd",
+  "ADAS.Rmd",
+  "ADpolicy.Rmd"
+]

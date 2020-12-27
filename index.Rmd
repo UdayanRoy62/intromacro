@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Preface
+# Preface {-}
 
 These are my lecture notes for a course called *Introduction to Macroeconomics* that I have taught for three decades. 
 
