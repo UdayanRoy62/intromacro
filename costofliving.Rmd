@@ -1,15 +1,15 @@
 # Measuring the Cost of Living {#costofliving}
 
 * What’s the cost of living the way we actually live? That is, what’s the cost of buying the things we buy?
-* Why do we need to know the cost of living?
+* Why do we need to measure the cost of living?
 
 ## The Consumer Price Index
 
 The Consumer Price Index (CPI) is a measure of the overall cost of the goods and services bought by a typical consumer. So, it is a measure of the cost of living.
 
-Here's CPI data for the United States: https://www.bls.gov/news.release/cpi.toc.htm. The [Bureau of Labor Statistics](https://www.bls.gov/) reports the CPI eevery month. Here's another source for the same data: http://research.stlouisfed.org/fred2/series/CPIAUCSL.
+Here's CPI data for the United States: https://www.bls.gov/news.release/cpi.toc.htm. The [Bureau of Labor Statistics](https://www.bls.gov/) reports its measure of the CPI every month. Here's another source for the same data: http://research.stlouisfed.org/fred2/series/CPIAUCSL.
 
-Changes in the CPI are used to monitor changes in the cost of living over time. When the CPI rises, the typical family has to spend more dollars to maintain the same standard of living.
+Changes in the CPI are used to monitor changes in the cost of living over time. When the CPI rises, the typical family has to spend more money to maintain the same standard of living.
 
 ## How the CPI Is Calculated
 
@@ -64,21 +64,21 @@ Note that the inflation rate could be _negative_, if CPI decreases over time.
 
 #### How the CPI Is Calculated: Example
 
-* Suppose the Base Year is 2002
-* Suppose the market value of the Typical Consumer's Basket of goods and services (TCB) is \$1,200 in 2002 prices
-* Suppose the market value of the same TCB is \$1,236 in 2004 prices
-* Then CPI for 2004, Base Year 2002 = \$1,236 &divide; \$1,200 &times; 100 = 103
-* Meaning: Prices increased 3 percent between 2002 and 2004
+* Suppose the Base Year is 2020
+* Suppose the market value of the Typical Consumer's Basket of goods and services (TCB) is \$1,200 in 2020 prices
+* Suppose the market value of the same TCB is \$1,236 in 2022 prices
+* Then CPI for 2022, Base Year 2020 = \$1,236 &divide; \$1,200 &times; 100 = 103
+* Meaning that, on average, prices increased 3 percent between 2020 and 2022
 
 #### How the CPI Is Calculated: The Basic Idea
 
 Let's look at the above example again. 
 
-Suppose you went to Hawaii on holiday in 2002 and spent \$1,200. Suppose you went to Hawaii again in 2004, and paid for _exactly_ the same goods and services as in 2002: the same hotel room, the same meals, the same travel, the same everything. And yet, you find that you spent \$1,236 during your 2004 holiday. 
+Suppose you went to Hawaii on holiday in 2020 and spent \$1,200. Suppose you went to Hawaii again in 2022, and paid for _exactly_ the same goods and services as in 2020: the same hotel room, the same meals, the same travel, the same everything. And yet, you find that you spent \$1,236 during your 2022 holiday. 
 
-Now, \$1,236 &divide; \$1,200 = 1.03, meaning that your 2004 spending was a multiple 1.03 of your 2002 spending, even though you paid for exactly the same things on both holidays. 
+Now, \$1,236 &divide; \$1,200 = 1.03, meaning that your 2022 spending was 1.03 times your 2020 spending, even though you paid for exactly the same things on both holidays. 
 
-How could that be? The only plausible explanation is that prices in 2004 were---on average---a multiple of 1.03 of the prices in 2002. That is, prices in 2004 were 103 percent of the prices in 2002, on average. Or, equivalently, prices in Hawaii were 3 percent higher in 2004 compared to 2002.
+How could that be? The only plausible explanation is that prices in 2022 were---on average---a multiple of 1.03 of the prices in 2020. That is, prices in 2022 were 103 percent of the prices in 2020, on average. Or, equivalently, prices in Hawaii were 3 percent higher in 2022 compared to 2020.
 
 In this way, by comparing the market value of a _fixed_ basket of goods at two different dates, one can estimate the overall percentage change in prices between those two dates. This is the basic idea behind the CPI formula in Equation \@ref(eq:cpi-formula). 
 
@@ -96,9 +96,9 @@ Check out this [video on the Measurement of Inflation](https://youtu.be/0jJKjgE3
 
 ### Problems in Measuring the Cost of Living
 
-The CPI is an accurate measure of the market value of the goods and services that make up the typical consumer's basket (TCB), but it is _not_ a perfect measure of the _cost of living_.
+The CPI--as it is currently measured--is an accurate measure of the market value of the goods and services that make up the typical consumer's basket (TCB), but it is _not_ a perfect measure of the _cost of living_.
 
-Here are some of the reasons why the CPI is nota perfect measure of the cost of living:
+Here are some of the reasons why the CPI is not a perfect measure of the cost of living:
 
 * Substitution bias
 * Introduction of new goods
@@ -106,45 +106,47 @@ Here are some of the reasons why the CPI is nota perfect measure of the cost of 
 
 #### Problems in Measuring the Cost of Living: Substitution Bias
 
-The typical consumer's basket (TCB) is not usually changed to reflect consumer reaction to changes in relative prices.
-Consumers substitute toward goods that become relatively less expensive.
-The CPI _overstates_ the increase in cost of living by not considering consumer substitution.
+The typical consumer's basket (TCB) is not usually adjusted to reflect consumer reaction to changes in relative prices. The typical consumer will usually substitute goods and services that become relatively less expensive for those that become relatively more expensive. This adjustment by the typical consumer reduces the effect of a price increase on the typical consumer's cost of living. But the statisticians who measure the CPI do not adjust the typical consumer's basket of goods and services every time there is a change in some price. Consequently, the fact that the typical consumer softens the impact of price increases by running away from goods that go up in price is not captured by the way the CPI is measured. In other words, the CPI _overstates_ the increase in cost of living by not considering consumer substitution.
 
 Consider this hypothetical example:
 
-* Suppose Red Apples and Green Apples are the only two commodities and are identical except for color.
-* Suppose the typical consumer’s basket has, for many years, contained 10 of each type.
-* Suppose the prices in 2015 (the base year) were \$2 per apple for both types. So, the cost of the typical consumer’s basket was \$40 in 2015 prices.
-* Suppose the prices in 2016 are \$4 for a Red Apple and \$2 for a Green Apple. So, the cost of the typical consumer’s basket is \$60 in 2016 prices.
+* Suppose Red Apples and Green Apples are the only two commodities and are identical except for color. Suppose the typical consumer doesn't care what color an apple is.
+* Suppose the typical consumer’s basket has, for many years, contained 10 apples of each color.
+* Suppose the prices in 2015 (the base year) were \$2 per apple for both colors. So, the cost of the typical consumer’s basket was \$40 in 2015 prices.
+* Suppose the prices in 2016 increase to \$4 for a Red Apple and remain unchanged at \$2 for a Green Apple. This makes the cost of the typical consumer’s basket \$60 in 2016 prices.
 * Therefore, the CPI for 2016 with base year 2015 is 60 &divide; 40 &times; 100 = 150, indicating a 50% increase in the cost of living from 2015 to 2016.
 
-_Q_: The CPI has increased. But has the cost of living really increased?
+_Q_: The CPI has increased. But has _the cost of living_ really increased?
 
 _A_: No. The consumer can switch to zero Red Apples and 20 Green Apples and enjoy the same satisfaction in 2016 as in 2015 without any increase in cost.
 
-Therefore, we see that _the CPI exaggerates the true cost of living_.
+Therefore, we see that _the CPI exaggerates the true cost of living_ by ignoring the typical consumer's ability to substitute Green Apples for Red Apples when the latter become expensive.
 
 #### Problems in Measuring the Cost of Living: Introduction of New Goods
 
-The typical consumer's basket does not reflect the change in purchasing power brought on by the introduction of new products.
+New products expand the choices available to consumers. Consumers will not buy a new product unless it provides more value for money than pre-existing products. In this way, new products reduce the cost of living.
 
-New products result in greater variety, which in turn makes each dollar more valuable.
+But the statisticians who measure the CPI do not adjust the typical consumer's basket of goods and services every time a new product is introduced. So, at least until a new product is formally added to the typical consumer's basket of goods and services, the introduction of that product does not affect the CPI. 
 
-As a result, consumers need fewer dollars to maintain any given standard of living.
+As a result, the CPI ends up overstating the cost of living.
 
 #### Problems in Measuring the Cost of Living: Unmeasured Quality Changes
 
-If the quality of a good rises from one year to the next, the value of a dollar rises, even if the price of the good stays the same.
+If the quality of a good rises from one year to the next but its price stays the same, the consumer gets more value for his/her money.
 
-If the quality of a good falls from one year to the next, the value of a dollar falls, even if the price of the good stays the same.
+If the quality of a good falls from one year to the next but its price stays the same, the consumer gets less value for his/her money.
 
-The BLS tries to adjust the price for changes in quality, but such changes are sometimes hard to measure.
+The CPI ought to reflect such changes on the cost of living, but it doesn't always do so. The Bureau of Labor Statistics in the US tries to adjust prices for changes in quality, but such changes are sometimes hard to measure.
+
+#### Problems in Measuring the Cost of Living: Summary
 
 The substitution bias, introduction of new goods, and unmeasured quality changes cause the CPI to overstate the true cost of living.
 
-The issue is important because many government programs use the CPI to adjust for changes in the overall level of prices.
+The issue is important because many government programs use the CPI to adjust for changes in the overall level of prices. Consider, for example, the Social Security pensions that senior citizens get from the government. These pensions go up proportionately whenever the CPI goes up. The idea is that increases in the CPI reflect increases in the cost of living, for which senior citizens ought to be made whole. But if the CPI exaggerates the increase in the cost of living, making pensions proportionate to the CPI overcompensates senior citizens for actual increases in the cost of living.
 
-The inflation calculated from the CPI overstates the true increase in the cost of living by about 1 percentage point per year. 
+In cases of deflation, the problem would be of over correction in the other direction: pensions would be reduced more than the true decrease in the cost of living. But this case is less relevant because deflation is relatively rare.
+
+The inflation calculated from the CPI has been estimated to overstate the true increase in the cost of living by about 1 percentage point per year. 
 
 ### The GDP Deflator Versus the Consumer Price Index 
 
@@ -157,7 +159,14 @@ We discussed the GDP deflator in Chapter \@ref(natincome) (Measuring a Nation’
 
 #### The GDP Deflator Versus the Consumer Price Index: Exercise
 
-If a Pennsylvania gun manufacturer raises the price of rifles it sells to the U.S. Army, its price hikes will increase:
+If a Pennsylvania gun manufacturer raises the price of the rifles it sells to the U.S. Army, this price hike will increase:
+
+a. Both the CPI and the GDP deflator
+b. Neither the CPI nor the GDP deflator
+c. The CPI but not the GDP deflator
+d. The GDP deflator but not the CPI
+
+If there is an increase in the price of French wine sold in the United States, this price hike will increase:
 
 a. Both the CPI and the GDP deflator
 b. Neither the CPI nor the GDP deflator
@@ -171,6 +180,8 @@ knitr::include_graphics("figures/inflation-GDPDEF-CPIAUCSL.png")
 ```
 
 ## Correcting Economic Variables For The Effects Of Inflation
+
+### Comparing Dollar Figures Across Time
 
 The CPI is used to correct for the effects of inflation when comparing dollar figures from different dates. 
 
@@ -215,13 +226,17 @@ b. \$500
 c. \$700
 d. \$900
 
-### Indexation
+#### Indexation
 
 When some dollar amount is _automatically_ corrected for inflation by law or contract, the amount is said to be indexed for inflation. For example, the social security pensions that most US retirees receive is indexed for the inflation rate calculated from the CPI. See a screen-shot from the Social Security Administration's web site in Figure  \@ref(fig:soc-sec-COLA).
 
 ```{r soc-sec-COLA, fig.cap='Social Security Pension Payments in the US are Indexed to the CPI', fig.align='center', echo=FALSE}
 knitr::include_graphics("figures/soc-sec-COLA.png")
 ```
+
+### Comparing Dollar Figures Across Space
+
+
 
 ### Correcting Economic Variables For The Effects Of Inflation: Real and Nominal Interest Rates
 
