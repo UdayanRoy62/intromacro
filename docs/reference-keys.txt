@@ -41,6 +41,7 @@ fig:AD-AS-tax-cut
 eq:aggregate-demand
 fig:AD-shift
 fig:LRAS
+fig:LRAS-shift
 fig:SRAS1
 eq:SRASeqn
 eq:gov-spending-multiplier
