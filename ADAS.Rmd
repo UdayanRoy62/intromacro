@@ -1,8 +1,13 @@
 # Aggregate Demand and Aggregate Supply {#ADAS}
 
-This chapter focuses on the causes of short-run fluctuations in economic activity. The bulk of the chapter discusses an important theory called the theory of Aggregate Demand and Aggregate Supply (AD-AS theory). The chapter also discusses what the AD-AS theory has to say about how government policies can counteract -- or dampen, or reduce -- short-run fluctuations in macroeconomic activity.
+This chapter discusses the causes of short-run fluctuations in macroeconomic activity. The bulk of the chapter describes an important theory called the theory of Aggregate Demand and Aggregate Supply (AD-AS theory). 
 
-But we begin with a look at data on [real GDP](https://udayanroy62.github.io/intromacro/natincome.html#gross-domestic-product-real) in the United States.
+<!-- The following chapter discusses what the AD-AS theory has to say about how government policies can counteract -- or dampen, or reduce -- short-run fluctuations in macroeconomic 
+
+Website: https://udayanroy62.github.io/intromacro/ADAS.html
+-->
+
+We begin, however, with a look at data on [real GDP](https://udayanroy62.github.io/intromacro/natincome.html#gross-domestic-product-real) in the United States.
 
 ## Short-Run Fluctuations in Real Gross Domestic Product {#ADAS_data}
 
@@ -265,7 +270,7 @@ To simplify our discussion, imagine that the prices of all commodities -- every 
 
 #### Why the Long-Run Aggregate-Supply Curve Might Shift {#ADAS_theory_AS_LRASshifts}
 
-```{r LRAS_shift, fig.cap='The Long Run Aggregate Supply Curve shifts right if and only if there is an increase in the economy\'s productive capacity, which is represented by the economy\'s _natural rate of output_ or _potential output_ or _full-employment output_ or _long-run real GDP_.', out.width='100%', fig.asp=.75, fig.align='center', echo=FALSE}
+```{r LRAS-shift, fig.cap='The Long Run Aggregate Supply Curve shifts right if and only if there is an increase in the economy\'s productive capacity, which is represented by the economy\'s _natural rate of output_ or _potential output_ or _full-employment output_ or _long-run real GDP_.', out.width='100%', fig.asp=.75, fig.align='center', echo=FALSE}
 knitr::include_graphics("figures/LRAS-shift.png")
 ```
 
