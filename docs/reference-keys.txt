@@ -48,7 +48,6 @@ eq:gov-spending-multiplier
 outline
 economics-microeconomics-and-macroeconomics
 macroeconomics
-the-role-of-data
 natincome
 introduction
 gross-domestic-product

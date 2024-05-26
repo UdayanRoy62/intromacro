@@ -39,6 +39,21 @@ Q: But what about _international trade_? We buy foreign-made goods and foreigner
 
 A: This is correct. So, it is better to say that total income of domestic residents equals the total expenditure on domestically produced goods and services.
 
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+library(tidyverse)
+library(fredr)
+fredr_set_key(fredr_get_key())
+
+my_data_series_id <- c("GDPA","B230RC0A052NBEA", "A939RC0A052NBEA")
+my_data <- map_dfr(my_data_series_id, fredr, observation_start = as.Date("2020-01-01"))
+latest_year <- year(max(my_data$date))
+latest_GDP <- format(my_data$value[my_data$series_id == "GDPA" & my_data$date == max(my_data$date)], scientific = FALSE, big.mark=",")
+latest_pop <- format(my_data$value[my_data$series_id == "B230RC0A052NBEA" & my_data$date == max(my_data$date)]*1000, scientific = FALSE, big.mark=",")
+latest_GDPPC <- format(my_data$value[my_data$series_id == "A939RC0A052NBEA" & my_data$date == max(my_data$date)], scientific = FALSE, big.mark=",")
+
+```
+
+
 ### Gross Domestic Product: Definition
 
 Gross Domestic Product (GDP) is one measure of a country’s total income.
@@ -46,13 +61,13 @@ There are other measures of total income, but GDP is the most popular measure.
 
 __GDP is the total market value of all final goods and services produced within a country in a given period of time.__
 
-This is not some abstract theoretical concept. We can put a number on it. For example, the GDP of the United States in 2019 was \$21,433.226 billion, according to the U.S. Department of Commerce. (For more data, see [this](https://fred.stlouisfed.org/series/GDPA).)
+This is not some abstract theoretical concept. We can put a number on it. For example, the GDP of the United States in `r latest_year` was \$`r latest_GDP` billion, according to the U.S. Department of Commerce. (For more data, see [this](https://fred.stlouisfed.org/series/GDPA).)
 
 #### Gross Domestic Product per capita
 
-The estimated population of the United States in 2019 was 328,239,523. (For more data, see [this](https://fred.stlouisfed.org/series/B230RC0A052NBEA).)
+The estimated population of the United States in `r latest_year`  was `r latest_pop`. (For more data, see [this](https://fred.stlouisfed.org/series/B230RC0A052NBEA).)
 
-Therefore, the estimated *per capita (or, per human) GDP* was \$65,240. (For more data, see [this](https://fred.stlouisfed.org/series/A939RC0A052NBEA).)
+Therefore, the estimated *per capita (or, per human) GDP* was \$`r latest_GDPPC`. (For more data, see [this](https://fred.stlouisfed.org/series/A939RC0A052NBEA).)
 
 #### GDP is output, expenditure, and income
 

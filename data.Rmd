@@ -1,5 +1,13 @@
 # (PART) Macroeconomic Data {-} 
 
-# The Important Data {#data .unnumbered}
+# Macroeconomic Data {#data .unnumbered}
 
 The next few chapters consider the meaning and measurement of some important macroeconomic variables.
+
+## The Role of Data {#role_of_data .unnumbered}
+
+To see whether an economy faces a macroeconomic problem, you first need data.
+
+* Data help policy makers spot the problems, if any, that need to be addressed
+* Data help macroeconomists identify the theories that make correct predictions and the theories that make incorrect predictions
+* Data often reveal interesting puzzles that macroeconomic theories then try to solve

@@ -6,9 +6,12 @@ site: bookdown::bookdown_site
 ---
 
 # Preface {-}
+<!--
+ The {-} ensures that this chapter will appear unnumbered in the table of contents and will not affect the numbering of the numbered chapters.
+-->
 
 These are my lecture notes for a course called *Introduction to Macroeconomics* that I have taught for over three decades. 
 
-The required textbook for my course is *Brief Principles of Macroeconomics* by N. Gregory Mankiw. Although Mankiw's book is excellent, in my teaching I have constantly felt the need to make small adjustments. Until recently, I had been making these adjustments in the PowerPoint slides I used in the classroom. But the availability of new technology -- especially *R*, *R Studio*, the *bookdown* package in *R*, and *Github* -- has made it easy for me to gather my slides and turn them into a free online form that actually reads like a textbook. 
+The required textbook for my course is *Brief Principles of Macroeconomics* by [N. Gregory Mankiw](https://simple.wikipedia.org/wiki/N._Gregory_Mankiw). Although Mankiw's book is excellent, in my teaching I have constantly felt the need to make small adjustments. Until recently, I had been making these adjustments in the PowerPoint slides I use in the classroom. But the availability of new technology -- especially *R*, *R Studio*, the *bookdown* package in *R*, and *Github* -- has made it easy for me to gather my slides and turn them into a free online form that actually resembles a textbook. 
 
 I would be happy to get feedback.

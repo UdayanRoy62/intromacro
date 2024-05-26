@@ -1,9 +1,6 @@
 # An Outline of the Course {#outline}
 
-Let's begin with some introductory remarks on:
-
-* The topics I will discuss in this course
-* The role of theory and data in the study of these topics
+Let's begin with some introductory definitions.
 
 ## Economics, Microeconomics, and Macroeconomics
 
@@ -28,13 +25,5 @@ This course focuses on macroeconomics. Macroeconomics focuses on questions such 
 * How does globalization affect a government's control over a country's macroeconomic performance?
 
 Macroeconomics focuses on measurements of the economic features of entire groups of people -- usually entire countries -- and tries to use those measurements to deduce effective ways of running our societies. 
-
-## The Role of Data
-
-To see whether an economy faces a macroeconomic problem, you first need data.
-
-* Data help policy makers see what problems, if any, need to be addressed
-* Data help macroeconomists identify the theories that make correct predictions and the theories that make incorrect predictions
-* Data often reveal interesting puzzles that macroeconomic theories need to solve
 
 
